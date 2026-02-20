@@ -1,5 +1,8 @@
-# financial-machine-learning
-A  portfolio of finance-focused machine learning projects.
+# Financial Machine Learning
 
-1.predictive-financial-risk-classification
-2.revenue-analysis-using-regression
+A portfolio of finance-focused machine learning projects.
+
+## Projects
+
+1. predictive-financial-risk-classification  
+2. revenue-analysis-using-regression
