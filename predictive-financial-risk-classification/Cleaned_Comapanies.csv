@@ -1,0 +1,1290 @@
+name,ticker,altman_score,piotroski_score,Controversies.Environment,Controversies.Social,Controversies.Customers,Controversies.Human Rights & Community,Controversies.Labor Rights & Supply Chain,Controversies.Governance,Decarbonization Target.Target Year,Decarbonization Target.Comprehensiveness,Decarbonization Target.Ambition p.a.,Decarbonization Target.Decarbonization Target,Decarbonization Target.Decarbonization Target on Temperature Rise,Temperature Goal,esg,involvement_msci.Controversial Weapons,involvement_msci.Gambling,involvement_msci.Tobacco Products,involvement_msci.Alcoholic Beverages
+F5 Networks,FFIV,4.08,9.0,Green,Green,Green,Green,Green,Green,2030.0,1.92,0.91,Yes,Yes,1.7,17.2,No,No,No,No
+Dell,DELL,1.63,7.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,60.56,-1.71,Yes,Yes,2.9,14.4,,,,
+AT&T,T,0.7,8.0,,,,,,,,,,No,No,,,,,,
+Verizon,VZ,1.15,6.0,Green,Yellow,Green,Green,Yellow,Green,2035.0,100.0,-3.71,Yes,Yes,1.5,,,,,
+Hewlett Packard,HPQ,1.91,7.0,Green,Yellow,Green,Green,Yellow,Green,2040.0,100.0,-5.56,Yes,Yes,2.0,12.3,,,,
+IBM,IBM,3.08,5.0,Green,Orange,Green,Green,Orange,Green,2030.0,100.0,-12.5,Yes,Yes,1.6,14.1,,,,
+Juniper Networks,JNPR,1.85,5.0,Green,Green,Green,Green,Green,Green,2030.0,36.58,-1.63,Yes,Yes,2.3,14.5,,,,
+Radware,RDWR,2.71,4.0,,,,,,,,,,No,No,,12.9,,,,
+Palo Alto Networks,PANW,4.54,6.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.4,14.1,,,,
+Check Point Software Technologies,CHKP,8.17,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,18.1,,,,
+Symantec,GEN,0.93,6.0,Green,Green,Green,Green,Green,Green,2033.0,10.68,0.94,Yes,Yes,1.6,15.4,,,,
+Oracle,ORCL,1.9,7.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,1.3,14.1,,,,
+Microsoft,MSFT,9.38,6.0,Green,Yellow,Yellow,Green,Yellow,Yellow,2045.0,100.0,-3.79,Yes,Yes,1.4,15.4,,,,
+Cisco,CSCO,3.35,8.0,Green,Yellow,Yellow,Green,Yellow,Green,2040.0,100.0,-5.56,Yes,Yes,1.8,13.9,,,,
+Fortinet,FTNT,4.85,6.0,Green,Green,Green,Green,Green,Green,2030.0,1.16,0.88,Yes,Yes,1.6,18.2,,,,
+PineApp,PEGY,0.33,3.0,,,,,,,,,,No,No,,,,,,
+A-T Solutions,CTSH,6.54,7.0,Green,Yellow,Green,Green,Yellow,Yellow,2050.0,100.0,-3.57,Yes,Yes,1.3,16.5,,,,
+Thor Industries,THO,3.6,6.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.4,28.8,,,,
+Life & Soft,LIFE,-3.8,2.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.5,,No,No,No,No
+Tata Consultancy Services,TCS,-0.6,5.0,Green,Yellow,Green,Green,Yellow,Yellow,2040.0,3.75,1.05,Yes,Yes,1.7,,No,No,No,No
+Simulations Plus,SLP,34.26,7.0,,,,,,,,,,No,No,,17.9,,,,
+Certara,CERT,3.43,4.0,,,,,,,,,,No,No,,19.3,,,,
+Thomson Reuters,TRI,6.95,7.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.4,,,,,
+Kronos,KRON,-3.5,2.0,,,,,,,,,,No,No,,,,,,
+ADP,ADP,2.34,9.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.7,,,,,
+Technomedia,TECH,10.61,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.8,17.5,No,No,No,No
+ACI Worldwide,ACIW,2.5,9.0,,,,,,,,,,No,No,,22.4,,,,
+Diebold,DBD,0.45,2.0,,,,,,,,,,No,No,,,,,,
+Harris,LHX,1.77,5.0,Green,Orange,Green,Green,Orange,Green,2026.0,4.38,0.9,Yes,Yes,2.3,21.1,Yes,No,No,No
+Intuit,INTU,9.75,7.0,Green,Green,Green,Green,Green,Green,2050.0,96.8,-3.33,Yes,Yes,1.3,,,,,
+ISO,ISO,4.46,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.9,,No,No,No,No
+MasterCard,MA,10.89,6.0,Green,Yellow,Yellow,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.3,,,,,
+NCR,NCR,0.89,4.0,,,,,,,,,,No,No,,,,,,
+SWIFT,KNX,1.75,4.0,Green,Yellow,Green,Green,Yellow,Green,2035.0,50.76,-0.6,Yes,Yes,4.0,18.3,No,No,No,No
+MicroStrategy,MSTR,2.32,2.0,,,,,,,,,,No,No,,26.9,,,,
+Rackspace,RXT,-0.72,4.0,,,,,,,,,,No,No,,22.5,,,,
+AMD,AMD,12.54,7.0,Green,Green,Green,Green,Green,Green,2030.0,0.77,0.95,Yes,Yes,2.7,15.0,No,No,No,No
+Adapt,ADPT,-1.94,3.0,,,,,,,,,,No,No,,18.9,,,,
+NetApp,NTAP,2.66,7.0,Green,Green,Green,Green,Green,Green,2030.0,90.37,-3.83,Yes,Yes,1.7,15.4,,,,
+Cable & Wireless Communications,CABO,1.17,8.0,,,,,,,,,,No,No,,15.6,,,,
+Accenture,ACN,7.35,7.0,Green,Orange,Yellow,Green,Orange,Green,2035.0,100.0,-7.69,Yes,Yes,1.3,9.8,,,,
+DS Group,DSGR,2.41,3.0,,,,,,,,,,No,No,,24.6,,,,
+Investis,IREN,13.84,4.0,,,,,,,,,,No,No,,20.8,,,,
+Google,GOOGL,13.24,8.0,Green,Yellow,Yellow,Green,Yellow,Green,2030.0,100.0,-12.5,Yes,Yes,1.4,24.2,No,No,No,No
+Salesforce,CRM,4.6,9.0,Green,Yellow,Green,Yellow,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.4,,,,,
+Workday,WDAY,5.32,7.0,Green,Green,Green,Green,Green,Green,2026.0,1.51,1.0,Yes,Yes,1.6,17.3,,,,
+Adobe,ADBE,12.66,8.0,Green,Green,Green,Green,Green,Green,2035.0,47.3,-2.27,Yes,Yes,1.4,14.9,,,,
+Appian,APPN,2.08,2.0,,,,,,,,,,No,No,,25.3,,,,
+AvePoint,AVPT,3.4,5.0,,,,,,,,,,No,No,,22.5,,,,
+CSG International,CSGS,2.97,7.0,,,,,,,,,,No,No,,16.2,,,,
+Infor,FIS,-0.22,6.0,Green,Green,Green,Green,Green,Green,2025.0,3.87,-0.32,Yes,Yes,1.7,16.1,,,,
+Informatica,INFA,2.29,6.0,,,,,,,,,,No,No,,19.1,,,,
+Kaltura,KLTR,-2.3,3.0,,,,,,,,,,No,No,,23.6,,,,
+Manhattan Associates,MANH,20.85,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,17.5,No,No,No,No
+Pega,PEGA,3.92,7.0,Green,Yellow,Green,Green,Yellow,Green,2030.0,1.79,1.02,Yes,Yes,3.4,25.2,No,No,No,No
+Teradata,TDC,1.06,8.0,,,,,,,,,,No,No,,17.9,,,,
+Amdocs,DOX,4.66,7.0,,,,,,,,,,No,No,,14.3,,,,
+Quantum,QMCO,-3.77,2.0,,,,,,,,,,No,No,,,,,,
+BlackBerry,BB,-0.05,3.0,Green,Green,Green,Green,Green,Green,2030.0,2.53,1.01,Yes,Yes,1.6,,No,No,No,No
+West,WEST,1.37,,Green,Green,Green,Green,Green,Green,2030.0,10.61,0.49,Yes,Yes,2.5,33.9,No,No,No,No
+Phunware,PHUN,-87.74,3.0,,,,,,,,,,No,No,,,,,,
+Apple,AAPL,7.9,9.0,Green,Orange,Yellow,Green,Orange,Yellow,2030.0,100.0,-11.58,Yes,Yes,1.7,16.7,,,,
+SPS Commerce,SPSC,27.22,6.0,,,,,,,,,,No,No,,21.9,,,,
+Motorola,MSI,4.17,8.0,Green,Green,Green,Green,Green,Green,2030.0,1.58,1.02,Yes,Yes,3.0,13.3,,,,
+Zebra Technologies,ZBRA,3.97,7.0,Green,Green,Green,Green,Green,Green,2030.0,31.47,-0.61,Yes,Yes,,10.5,No,No,No,No
+3M,MMM,1.81,4.0,Yellow,Orange,Orange,Orange,Green,Green,2040.0,12.45,0.47,Yes,Yes,2.7,41.3,,,,
+Applied Materials,AMAT,11.04,7.0,Green,Green,Green,Green,Green,Yellow,2040.0,100.0,-5.56,Yes,Yes,1.3,,,,,
+Brightcove,BCOV,-0.71,3.0,,,,,,,,,,No,No,,27.3,,,,
+Verint Systems,VRNT,1.79,9.0,,,,,,,,,,No,No,,19.0,,,,
+Shopify,SHOP,25.55,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,21.0,No,No,No,No
+Couchbase,BASE,3.55,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,,21.9,No,No,No,Yes
+Elastic,ESTC,4.9,7.0,,,,,,,,,,No,No,,17.4,,,,
+MongoDB,MDB,9.44,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,18.2,No,No,No,No
+Nutanix,NTNX,1.38,5.0,,,,,,,,,,No,No,,20.2,,,,
+Ubiquiti Networks,UI,6.37,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,19.9,No,No,No,No
+Arista Networks,ANET,20.5,5.0,Green,Green,Green,Green,Green,Green,2024.0,0.04,0.99,Yes,Yes,2.4,15.4,No,No,No,No
+FICO,FICO,12.46,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.9,20.3,No,No,No,No
+Obsidian,OBE,0.92,7.0,,,,,,,,,,No,No,,47.4,,,,
+Quest,DGX,3.08,6.0,Green,Yellow,Yellow,Green,Green,Yellow,,,,No,No,2.1,21.0,No,No,No,No
+T-Systems,AEHR,15.06,5.0,,,,,,,,,,No,No,,22.2,,,,
+Infosys,INFY,10.29,6.0,Green,Yellow,Green,Green,Yellow,Green,2036.0,100.0,-2.99,Yes,Yes,1.4,,No,No,No,No
+Progress Software,PRGS,1.99,7.0,,,,,,,,,,No,No,,18.7,,,,
+Booz Allen Hamilton,BAH,4.8,6.0,Green,Green,Green,Green,Green,Yellow,2050.0,100.0,-3.57,Yes,Yes,1.3,14.1,No,No,No,No
+Globant,GLOB,6.36,4.0,Green,Orange,Orange,Green,Yellow,Orange,2030.0,6.99,0.11,Yes,Yes,1.8,16.4,No,No,No,No
+OCTO,OCTO,-5.39,4.0,,,,,,,,,,No,No,,,,,,
+Pure Storage,PSTG,4.76,6.0,,,,,,,,,,No,No,,17.8,,,,
+CommVault,CVLT,3.61,6.0,,,,,,,,,,No,No,,15.5,,,,
+Altair Engineering,ALTR,6.96,4.0,Green,Orange,Orange,Green,Green,Orange,2030.0,100.0,-0.28,Yes,Yes,1.4,24.9,No,No,Yes,Yes
+ANSYS,ANSS,11.5,6.0,Green,Green,Green,Green,Green,Green,2027.0,6.92,0.71,Yes,Yes,1.6,15.8,No,No,No,No
+Autodesk,ADSK,4.04,8.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.27,Yes,Yes,1.4,16.4,No,No,No,No
+Bio-key,BKYI,-18.58,3.0,,,,,,,,,,No,No,,,,,,
+CEI,CEI,-2.83,1.0,,,,,,,,,,No,No,,,,,,
+DICE,DHX,1.4,7.0,,,,,,,,,,No,No,,25.0,,,,
+PTC,PTC,4.49,4.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.4,,No,No,No,No
+Systemax,GIC,6.81,6.0,,,,,,,,,,No,No,,22.3,,,,
+Verisign,VRSN,-4.88,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.0,20.9,No,No,No,No
+Broadridge,BR,4.11,8.0,Green,Green,Green,Green,Green,Green,2025.0,4.89,0.83,Yes,Yes,2.0,,No,No,No,No
+AMT,AMT,1.12,7.0,Green,Green,Green,Green,Green,Green,2035.0,100.0,-1.36,Yes,Yes,2.2,,No,No,No,No
+Babel,SALM,0.26,3.0,Green,Yellow,Yellow,Green,Green,Green,2030.0,100.0,-4.33,Yes,Yes,1.5,20.3,No,No,No,No
+L & T Infotech,FUTU,1.29,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,27.2,No,No,No,No
+Altus,AMPS,0.4,2.0,,,,,,,,,,No,No,,24.9,,,,
+General Electric,GE,2.15,8.0,Yellow,Yellow,Green,Green,Yellow,Yellow,2050.0,94.57,-3.32,Yes,Yes,,,No,No,No,No
+Jack Henry & Associates,JKHY,9.86,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.8,18.7,No,No,No,No
+AIR Company,LUV,1.83,7.0,Green,Orange,Orange,Green,Orange,Yellow,2050.0,81.57,-2.7,Yes,Yes,2.2,,No,No,No,Yes
+Acxiom,RAMP,7.2,5.0,,,,,,,,,,No,No,,23.3,,,,
+BI Solutions,BLFS,5.33,3.0,,,,,,,,,,No,No,,29.1,,,,
+Research Solutions,RSSS,2.21,3.0,,,,,,,,,,No,No,,,,,,
+CMS,CMS,0.97,6.0,Green,Orange,Orange,Green,Green,Yellow,2050.0,100.0,-2.9,Yes,Yes,2.3,21.3,No,No,No,No
+Solarwinds,SWI,0.46,6.0,Green,Yellow,Yellow,Green,Green,Green,2035.0,100.0,-7.69,Yes,Yes,1.3,,No,No,No,No
+Zscaler,ZS,5.67,3.0,Green,Green,Green,Green,Green,Green,2025.0,100.0,-33.33,Yes,Yes,1.5,18.1,No,No,No,No
+endava,DAVA,7.63,6.0,,,,,,,,,,No,No,,16.3,,,,
+NSIT,NSIT,2.93,6.0,,,,,,,,,,No,No,,11.1,,,,
+LT-CONSULT,BWMN,2.08,2.0,,,,,,,,,,No,No,,41.2,,,,
+SK Telecom,SKM,2.24,7.0,,,,,,,,,,No,No,,,,,,
+Five9,FIVN,3.36,3.0,,,,,,,,,,No,No,,27.8,,,,
+Trimble,TRMB,2.64,6.0,Green,Green,Green,Green,Green,Green,2030.0,5.03,0.9,Yes,Yes,2.1,11.0,No,No,No,No
+TurnKey Services,TKC,2.95,6.0,,,,,,,,,,No,No,,,,,,
+NVIDIA,NVDA,58.64,8.0,Green,Green,Green,Green,Green,Green,2025.0,1.26,0.59,Yes,Yes,2.7,13.5,No,No,No,No
+Open Technologies,OPEN,2.04,5.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.3,11.9,No,No,No,No
+Novell,ALPN,48.79,3.0,,,,,,,,,,No,No,,29.7,,,,
+Bruker,BRKR,4.46,6.0,,,,,,,,,,No,No,,20.6,,,,
+CompX,CIX,15.32,7.0,,,,,,,,,,No,No,,26.8,,,,
+Haemonetics,HAE,3.56,6.0,,,,,,,,,,No,No,,12.1,,,,
+Masimo,MASI,4.4,7.0,,,,,,,,,,No,No,,31.0,,,,
+Audiocodes,AUDC,2.49,6.0,,,,,,,,,,No,No,,19.6,,,,
+Extreme Networks,EXTR,1.37,9.0,Green,Green,Green,Green,Green,Green,2025.0,14.71,0.12,Yes,Yes,2.3,17.1,No,No,No,No
+VT Group,VTOL,1.49,5.0,,,,,,,,,,No,No,,21.5,,,,
+McKesson,MCK,5.56,6.0,Green,Green,Green,Green,Green,Yellow,2032.0,0.58,1.02,Yes,Yes,1.7,,No,No,No,No
+Aramark,ARMK,2.42,7.0,,,,,,,,,,No,No,,23.7,,,,
+Texas Instruments,TXN,9.08,4.0,Green,Green,Green,Green,Green,Green,2025.0,21.04,-0.25,Yes,Yes,3.3,20.8,No,No,No,No
+Coupa,CPNG,4.19,5.0,,,,,,,,,,No,No,,25.9,,,,
+OmniCell,OMCL,1.72,4.0,,,,,,,,,,No,No,,16.5,,,,
+IRadimed,IRMD,18.31,5.0,,,,,,,,,,No,No,,30.1,,,,
+ADTRAN,ADTN,0.95,2.0,,,,,,,,,,No,No,,19.0,,,,
+Glowpoint,OBLG,-45.91,3.0,,,,,,,,,,No,No,,,,,,
+Stryker,SYK,5.32,7.0,Green,Yellow,Yellow,Green,Green,Yellow,2024.0,1.22,0.88,Yes,Yes,,24.6,No,No,No,No
+Spok,SPOK,4.39,8.0,,,,,,,,,,No,No,,29.3,,,,
+Access,EVRI,0.94,7.0,,,,,,,,,,No,No,,18.2,,,,
+Steris,STE,3.54,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.6,,No,No,No,No
+HCS,HCSG,4.68,5.0,,,,,,,,,,No,No,,17.4,,,,
+Austco,AHC,-7.51,3.0,,,,,,,,,,No,No,,,,,,
+Xerox,XRX,1.51,5.0,,,,,,,,,,No,No,,16.7,,,,
+USAN,USNA,7.42,7.0,,,,,,,,,,No,No,,28.5,,,,
+CD,CDNS,23.64,6.0,Green,Green,Green,Green,Green,Green,2040.0,5.68,0.71,Yes,Yes,1.7,12.0,No,No,No,No
+CPS,CPS,1.34,4.0,,,,,,,,,,No,No,,,,,,
+IPG,IPG,1.84,7.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.3,9.3,No,No,No,No
+PC Connectio,CNXN,7.56,7.0,,,,,,,,,,No,No,,13.9,,,,
+DCI,DCI,6.87,7.0,,,,,,,,,,No,No,,31.0,,,,
+PDS,PDS,1.18,7.0,,,,,,,,,,No,No,,,,,,
+QI,QFIN,2.3,6.0,,,,,,,,,,No,No,,,,,,
+Streamline Health Solutions,STRM,-4.43,3.0,,,,,,,,,,No,No,,,,,,
+MedPlus,MEDP,8.1,8.0,,,,,,,,,,No,No,,17.2,,,,
+Kodak,KODK,0.77,5.0,,,,,,,,,,No,No,,23.8,,,,
+Unisys,UIS,-0.6,6.0,,,,,,,,,,No,No,,19.7,,,,
+Lockheed Martin,LMT,3.68,6.0,Green,Yellow,Yellow,Yellow,Green,Green,2030.0,0.35,1.02,Yes,Yes,,28.5,Yes,No,No,No
+Intertec,VSH,2.88,6.0,,,,,,,,,,No,No,,20.8,,,,
+Flextronics,FLEX,2.37,8.0,,,,,,,,,,No,No,,9.3,,,,
+Magnolia,MGY,4.49,4.0,,,,,,,,,,No,No,,48.8,,,,
+Telstra,TLS,1.98,3.0,Green,Yellow,Yellow,Green,Green,Green,2050.0,100.0,-3.14,Yes,Yes,1.5,22.2,No,No,No,No
+bq,BQ,-7.87,3.0,,,,,,,,,,No,No,,,,,,
+Box,BOX,1.71,8.0,,,,,,,,,,No,No,,23.7,,,,
+Guidewire,GWRE,7.67,5.0,,,,,,,,,,No,No,,14.9,,,,
+Palantir,PLTR,29.22,7.0,Green,Yellow,Green,Yellow,Green,Green,,,,No,No,1.7,23.1,No,No,No,No
+Akamai,AKAM,2.81,5.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.6,15.0,No,Yes,No,No
+Boeing,BA,1.4,5.0,Green,Yellow,Yellow,Yellow,Green,Yellow,2050.0,100.0,-3.57,Yes,Yes,2.3,,No,No,No,No
+Ciena,CIEN,2.29,9.0,,,,,,,,,,No,No,,15.3,,,,
+comScore,SCOR,-3.78,4.0,,,,,,,,,,No,No,,,,,,
+FactSet,FDS,6.2,7.0,Green,Green,Green,Green,Green,Green,2040.0,2.36,0.93,Yes,Yes,2.0,18.5,No,No,No,No
+ServiceNow,NOW,9.54,5.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.3,16.9,No,No,No,No
+TransUnion,TRU,2.0,5.0,Green,Yellow,Yellow,Green,Green,Green,2030.0,1.02,0.9,Yes,Yes,1.8,20.7,No,No,No,No
+DocuSign,DOCU,4.05,7.0,Green,Green,Green,Green,Green,Yellow,,,,No,No,1.6,17.7,No,No,No,No
+Dropbox,DBX,1.81,8.0,Green,Yellow,Yellow,Green,Green,Green,,,,No,No,1.7,20.0,No,No,No,No
+Dynatrace,DT,8.07,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,,No,No,No,No
+Seagate,STX,0.24,2.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-2.77,Yes,Yes,2.4,12.5,No,No,No,No
+MariaDB,MRDB,-16.08,3.0,,,,,,,,,,No,No,,,,,,
+Perficient,PRFT,4.04,5.0,,,,,,,,,,No,No,,22.3,,,,
+SAIC,SAIC,3.36,6.0,Green,Orange,Green,Green,Orange,Yellow,,,,No,No,,24.3,No,No,No,Yes
+EPAM Systems,EPAM,12.23,6.0,Green,Green,Green,Green,Green,Green,2030.0,1.17,0.99,Yes,Yes,1.7,28.1,No,No,No,No
+Blackbird,BIRD,-1.51,2.0,,,,,,,,,,No,No,,18.3,,,,
+Clark & Parsia,KMB,4.04,8.0,Green,Yellow,Green,Green,Yellow,Green,2030.0,45.47,-1.13,Yes,Yes,2.0,28.6,No,No,No,No
+Exa Corporation,EXAS,1.66,4.0,Green,Green,Green,Green,Green,Yellow,,,,No,No,1.7,22.5,No,No,No,No
+Sage,SAGE,1.91,3.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.3,22.3,No,No,No,No
+Sky Solutions,SWKS,6.77,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.9,24.9,No,No,No,No
+Polaris,PII,2.8,6.0,,,,,,,,,,No,No,,,,,,
+Nasdaq OMX,NDAQ,1.67,6.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.5,14.8,No,No,No,No
+WNS,WNS,4.39,6.0,,,,,,,,,,No,No,,,,,,
+Novabase,NBA,-23.54,2.0,,,,,,,,,,No,No,,,,,,
+Bax & Willems,BAX,2.43,5.0,Green,Green,Green,Green,Green,Yellow,2030.0,13.43,0.22,Yes,Yes,2.4,23.3,No,No,No,No
+Corning,GLW,2.53,5.0,Green,Green,Green,Green,Green,Green,2028.0,91.55,-5.32,Yes,Yes,2.4,17.4,No,No,No,No
+Spirent,SPT,6.05,4.0,,,,,,,,,,No,No,,,,,,
+Rockwell Automation,ROK,4.98,8.0,Green,Green,Green,Green,Green,Green,2030.0,3.66,0.54,Yes,Yes,2.4,19.1,No,No,No,No
+Celestica,CLS,2.58,7.0,Green,Green,Green,Green,Green,Green,2030.0,20.04,-0.05,Yes,Yes,2.1,8.4,No,No,No,No
+FalconStor Software,FALC,-11.64,7.0,,,,,,,,,,No,No,,,,,,
+ICE,ICE,0.72,6.0,Green,Green,Green,Green,Green,Green,2032.0,3.55,0.84,Yes,Yes,1.8,,No,No,No,No
+W-Systems,CWST,2.76,6.0,,,,,,,,,,No,No,,20.5,,,,
+DRI,DRI,2.38,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.5,28.0,No,No,Yes,Yes
+Schrodinger,SDGR,4.31,1.0,,,,,,,,,,No,No,,19.5,,,,
+Netscout,NTCT,1.72,7.0,,,,,,,,,,No,No,,18.4,,,,
+M-ITR,ITRN,5.12,9.0,,,,,,,,,,No,No,,19.2,,,,
+Snowflake,SNOW,9.97,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.0,18.9,No,No,No,No
+Arrow,ARW,2.66,5.0,,,,,,,,,,No,No,,8.9,,,,
+Drago,CCCS,3.0,6.0,,,,,,,,,,No,No,,20.4,,,,
+Equator,EQX,1.07,7.0,,,,,,,,,,No,No,,32.0,,,,
+ExlService Holdings,EXLS,8.29,8.0,,,,,,,,,,No,No,,12.0,,,,
+FMS,FMS,1.62,7.0,,,,,,,,,,No,No,,,,,,
+MT,MT,1.96,8.0,Green,Yellow,Green,Yellow,Green,Yellow,2040.0,100.0,-5.26,Yes,Yes,1.5,38.1,No,No,No,No
+Nexter,NEE,1.21,5.0,Yellow,Orange,Orange,Green,Yellow,Yellow,2025.0,100.0,-8.48,Yes,Yes,,25.3,No,No,No,No
+TIS,TISI,0.84,4.0,,,,,,,,,,No,No,,,,,,
+CROC,CROX,3.84,7.0,,,,,,,,,,No,No,,15.3,,,,
+BA Group,B,1.98,5.0,,,,,,,,,,No,No,,,,,,
+Co-graph,GPK,1.91,7.0,,,,,,,,,,No,No,,18.0,,,,
+Datadog,DDOG,14.38,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,16.7,No,No,No,No
+Happiest Minds Technologies,HAPP,-5.16,2.0,,,,,,,,,,No,No,,,,,,
+Innovation,ONTO,33.25,6.0,,,,,,,,,,No,No,,19.6,,,,
+Emerson,EMR,4.22,7.0,Green,Green,Green,Green,Green,Green,2045.0,100.0,-4.35,Yes,Yes,1.6,24.5,No,No,No,No
+Micron,MU,4.6,2.0,Green,Green,Green,Green,Green,Green,2050.0,33.14,-0.42,Yes,Yes,3.5,19.7,No,No,No,No
+Instruct,INST,2.03,6.0,Green,Green,Green,Green,Green,Green,2025.0,21.04,-0.25,Yes,Yes,3.3,,No,No,No,No
+Henry Schein,HSIC,3.06,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.2,14.4,No,No,No,No
+VIE Healthcare,VMD,6.97,7.0,,,,,,,,,,No,No,,32.0,,,,
+Atex,ATEX,1.26,7.0,,,,,,,,,,No,No,,32.5,,,,
+Epsilon,EPSN,3.41,5.0,,,,,,,,,,No,No,,,,,,
+MRI Software,MRIN,-26.14,3.0,,,,,,,,,,No,No,,,,,,
+BLUE STAR,BSFC,-7.34,5.0,,,,,,,,,,No,No,,,,,,
+C-FORWARD,FWRD,1.12,5.0,,,,,,,,,,No,No,,18.1,,,,
+CSPI,CSPI,5.83,7.0,,,,,,,,,,No,No,,,,,,
+Facebook,META,11.3,7.0,Green,Orange,Orange,Green,Yellow,Yellow,2031.0,100.0,-11.11,Yes,Yes,1.3,33.9,No,No,No,No
+NICE,NICE,6.37,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,14.3,No,No,No,No
+Altis,ASPS,-1.06,3.0,,,,,,,,,,No,No,,,,,,
+Zuora,ZUO,0.69,3.0,,,,,,,,,,No,No,,21.7,,,,
+MRC,MRC,2.27,6.0,,,,,,,,,,No,No,,,,,,
+E&M,E,1.71,7.0,,,,,,,,,,No,No,,,,,,
+PI Services,HOG,1.58,6.0,,,,,,,,,,No,No,,14.4,,,,
+Service & Support company,UPS,3.56,6.0,Green,Orange,Green,Green,Orange,Green,2035.0,46.71,-0.87,Yes,Yes,1.9,18.6,No,No,No,No
+MOS,MOS,2.26,6.0,Green,Yellow,Green,Green,Yellow,Green,2040.0,9.05,0.49,Yes,Yes,3.9,37.8,No,No,No,No
+LAN,LSTR,10.7,8.0,,,,,,,,,,No,No,,19.7,,,,
+Rapid7,RPD,0.47,5.0,,,,,,,,,,No,No,,21.1,,,,
+Chunghwa Telecom,CHT,5.62,7.0,,,,,,,,,,No,No,,,,,,
+C-data,CNET,-4.42,3.0,,,,,,,,,,No,No,,,,,,
+ICF International,ICFI,3.23,7.0,,,,,,,,,,No,No,,17.9,,,,
+Kforce,KFRC,10.86,6.0,,,,,,,,,,No,No,,8.6,,,,
+OR Technologies,OSUR,6.37,6.0,,,,,,,,,,No,No,,16.4,,,,
+Spry,SPRY,222.12,2.0,,,,,,,,,,No,No,,,,,,
+PATH,PATH,7.17,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,17.1,No,No,No,No
+ALTIC,ATUS,0.4,5.0,,,,,,,,,,No,No,,26.7,,,,
+ARDA,AMBP,1.05,3.0,,,,,,,,,,No,No,,,,,,
+EKS&H,EKSO,-11.24,3.0,,,,,,,,,,No,No,,,,,,
+G-Able,ABLV,5.23,4.0,,,,,,,,,,No,No,,,,,,
+Microsystem,ALGM,9.74,5.0,,,,,,,,,,No,No,,15.9,,,,
+Schneider & Wulf EDV Beratung,SNDR,3.4,6.0,,,,,,,,,,No,No,,17.5,,,,
+Actinium,ATNM,-3.05,2.0,,,,,,,,,,No,No,,,,,,
+CALM-Co,CCO,-1.42,4.0,,,,,,,,,,No,No,,30.8,,,,
+Discovery,WBD,0.42,5.0,Green,Green,Green,Green,Green,Green,2030.0,10.7,-0.41,Yes,Yes,1.9,19.9,No,No,No,Yes
+Synergo!,SNRG,-10.8,3.0,,,,,,,,,,No,No,,,,,,
+NextDC,NXT,2.64,7.0,Green,Orange,Green,Green,Orange,Green,2030.0,75.36,-1.86,Yes,Yes,2.6,19.7,No,No,No,Yes
+Orange,ORAN,0.7,7.0,Green,Orange,Yellow,Green,Orange,Green,2040.0,100.0,-5.08,Yes,Yes,1.5,,No,Yes,No,No
+Equinix,EQIX,2.18,6.0,Green,Green,Green,Green,Green,Green,2030.0,68.56,-7.92,Yes,Yes,3.0,14.1,No,No,No,No
+Fox Technologies,FOXO,-154.34,2.0,,,,,,,,,,No,No,,,,,,
+Towers Watson,WTW,1.36,7.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.5,18.7,No,No,No,No
+RIOT,RIOT,11.36,4.0,,,,,,,,,,No,No,,37.3,,,,
+ROS,ROST,5.3,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.9,17.6,No,No,No,No
+Schlumberger,SLB,3.21,7.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.4,20.1,No,No,No,No
+Digi International,DGII,3.54,8.0,,,,,,,,,,No,No,,17.7,,,,
+Global Payments,GPN,1.0,7.0,Green,Green,Green,Green,Green,Green,2040.0,5.14,0.75,Yes,Yes,1.6,20.7,No,Yes,No,No
+SYNNEX Corporation,SNX,2.72,7.0,,,,,,,,,,No,No,,9.9,,,,
+USA Technologies,CTLP,1.85,6.0,,,,,,,,,,No,No,,24.1,,,,
+Avnet,AVT,3.56,6.0,,,,,,,,,,No,No,,,,,,
+Cybera,CYBR,5.11,4.0,,,,,,,,,,No,No,,17.2,,,,
+Everbridge,EVBG,0.77,5.0,,,,,,,,,,No,No,,27.1,,,,
+M&A Technology,M,2.42,6.0,,,,,,,,,,No,No,,,,,,
+NETGEAR,NTGR,1.61,5.0,,,,,,,,,,No,No,,14.5,,,,
+ViaSat,VSAT,0.61,6.0,,,,,,,,,,No,No,,19.8,,,,
+GCI,GCI,0.79,5.0,,,,,,,,,,No,No,,14.8,,,,
+TeleTech,TTEC,2.13,4.0,,,,,,,,,,No,No,,22.3,,,,
+TSR,TSRI,7.47,6.0,,,,,,,,,,No,No,,,,,,
+Kline,BIOC,-23.87,2.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,,No,No,No,No
+Iron Mountain,IRM,0.91,5.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.3,,No,No,No,No
+Orbit,LLAP,-3.77,3.0,,,,,,,,,,No,No,,20.8,,,,
+Qualys,QLYS,9.57,9.0,,,,,,,,,,No,No,,19.6,,,,
+GiT,GTLB,6.37,4.0,,,,,,,,,,No,No,,21.1,,,,
+Domo,DOMO,-8.39,4.0,,,,,,,,,,No,No,,23.6,,,,
+Ncino,NCNO,7.08,6.0,,,,,,,,,,No,No,,18.3,,,,
+Emergent,EBS,-0.54,4.0,Green,Green,Green,Green,Green,Green,2050.0,0.12,1.14,Yes,Yes,2.8,21.7,No,No,No,No
+Compose,CMPO,-1.77,6.0,,,,,,,,,,No,No,,25.8,,,,
+Northrop Grumman,NOC,2.79,6.0,Green,Orange,Green,Yellow,Orange,Yellow,2035.0,1.31,0.95,Yes,Yes,3.4,27.9,No,No,No,No
+Open Text,OTEX,1.2,5.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.3,16.9,No,No,No,No
+Hall,HALL,0.4,2.0,Green,Green,Green,Green,Green,Green,2035.0,42.67,-0.02,Yes,Yes,1.7,,No,No,No,No
+PagerDuty,PD,1.44,5.0,Green,Yellow,Yellow,Green,Green,Green,,,,No,No,4.0,19.0,No,No,No,No
+Twilio,TWLO,3.35,6.0,Green,Green,Green,Green,Green,Green,2032.0,6.77,0.48,Yes,Yes,1.6,22.6,No,No,No,No
+WSM,WSM,6.33,8.0,Green,Green,Green,Green,Green,Green,2030.0,96.12,-0.52,Yes,Yes,3.4,13.4,No,No,No,Yes
+Analytics & Forecasting,VRSK,8.27,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,17.3,No,No,No,No
+D&TS B.V.,D,0.63,7.0,,,,,,,,,,No,No,,19.5,,,,
+LINCOLN,LECO,7.44,8.0,,,,,,,,,,No,No,,22.0,,,,
+S&T Services Polska Sp. z o.o.,S,4.84,5.0,,,,,,,,,,No,No,,,,,,
+Software & Tech SA,TTWO,2.29,3.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.0,15.6,No,No,No,No
+Agilent,A,6.6,7.0,,,,,,,,,,No,No,,,,,,
+Double,DDI,6.0,7.0,,,,,,,,,,No,No,,,,,,
+Itg,ITGR,2.62,7.0,,,,,,,,,,No,No,,25.6,,,,
+Qualcomm,QCOM,6.06,6.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.6,15.3,No,No,No,No
+Route1,ROI,-33.88,1.0,,,,,,,,,,No,No,,,,,,
+Okta,OKTA,2.74,5.0,Green,Green,Green,Green,Green,Green,2030.0,3.24,0.7,Yes,Yes,1.6,15.0,No,No,No,No
+VIA Technology,DSP,1.64,4.0,,,,,,,,,,No,No,,22.0,,,,
+Construct 6,NOA,1.4,6.0,,,,,,,,,,No,No,,30.9,,,,
+Gorilla,GRRR,1.13,2.0,,,,,,,,,,No,No,,,,,,
+Benchmark,BHE,2.79,6.0,,,,,,,,,,No,No,,7.1,,,,
+KW Systems,KWE,-7.51,1.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.9,,No,No,No,Yes
+Context,WISH,-11.49,1.0,,,,,,,,,,No,No,,,,,,
+"Lanz & Swinney, LLC",LNZA,-3.44,4.0,,,,,,,,,,No,No,,36.6,,,,
+"Art & Logic, Inc.",AJG,1.03,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,21.2,No,No,No,No
+CCG,CCG,4.33,3.0,,,,,,,,,,No,No,,,,,,
+CE Technologies,CETY,5.21,3.0,,,,,,,,,,No,No,,,,,,
+"Cloud & DC Mx, S.A. de C.V.",CCSI,1.21,6.0,,,,,,,,,,No,No,,24.2,,,,
+Cogent Communications,CCOI,2.43,3.0,,,,,,,,,,No,No,,30.4,,,,
+Colliers International,CIGI,1.48,8.0,,,,,,,,,,No,No,,12.2,,,,
+Data Systems Inc.,TDS,0.68,5.0,,,,,,,,,,No,No,,36.9,,,,
+Element,ESI,1.81,6.0,,,,,,,,,,No,No,,25.4,,,,
+"ENE Systems, Inc",OESX,-1.17,2.0,,,,,,,,,,No,No,,,,,,
+Evol Technologies,EVLV,0.45,3.0,,,,,,,,,,No,No,,16.4,,,,
+EZ-Tech,EZGO,0.46,2.0,,,,,,,,,,No,No,,,,,,
+Fastly,FSLY,1.58,5.0,,,,,,,,,,No,No,,24.2,,,,
+G&A Technologies Limited,G,3.14,6.0,,,,,,,,,,No,No,,,,,,
+i-Tech,AIT,7.21,7.0,,,,,,,,,,No,No,,24.1,,,,
+ID&T Professionals Tecnologias de Informacion SA de CV,BIIB,3.3,4.0,Green,Green,Green,Green,Green,Green,2045.0,100.0,-4.35,Yes,Yes,1.3,20.8,No,No,No,No
+IMAGES&Co - RS-A-1270466,GETY,0.25,7.0,,,,,,,,,,No,No,,,,,,
+"Integrated Technology & Consulting, Inc",IMTE,-1.24,2.0,,,,,,,,,,No,No,,,,,,
+Intuitive,ISRG,46.22,5.0,Green,Orange,Orange,Green,Green,Green,,,,No,No,,20.5,No,No,No,No
+Mac+Tech,MTSI,7.68,5.0,,,,,,,,,,No,No,,43.3,,,,
+Matson & Isom Technology Consulting,MATX,2.9,6.0,,,,,,,,,,No,No,,19.9,,,,
+Octopus,CODA,16.64,5.0,,,,,,,,,,No,No,,,,,,
+Pinter,PINS,32.64,8.0,Green,Green,Green,Green,Green,Green,2027.0,0.73,0.99,Yes,Yes,1.6,23.8,No,No,No,No
+SMITH,AOS,9.33,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.6,26.4,No,No,No,No
+So Technology,STI,-0.12,1.0,Green,Orange,Green,Green,Orange,Green,2050.0,21.91,0.15,Yes,Yes,2.0,,No,No,No,No
+SPI Inc.,SR,0.75,6.0,,,,,,,,,,No,No,,,,,,
+Technology Systems,TCMD,4.03,6.0,,,,,,,,,,No,No,,28.5,,,,
+Personal,EPC,1.84,9.0,,,,,,,,,,No,No,,25.2,,,,
+Cloudflare,NET,9.29,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.1,23.2,No,No,No,No
+Sify Technologies,SIFY,0.78,6.0,,,,,,,,,,No,No,,,,,,
+CACI,CACI,3.88,8.0,,,,,,,,,,No,No,,16.7,,,,
+Idean,IDEX,-17.93,2.0,Green,Green,Green,Green,Green,Green,2035.0,4.25,0.97,Yes,Yes,1.3,,No,No,No,No
+iRobot,IRBT,0.26,2.0,,,,,,,,,,No,No,,24.5,,,,
+Logitech,LOGI,8.41,6.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.16,Yes,Yes,2.0,,No,No,No,No
+Zoom Technologies,ZI,1.27,7.0,Green,Green,Green,Green,Green,Green,2050.0,1.78,1.11,Yes,Yes,1.7,,No,No,No,No
+Innodata,INOD,4.44,5.0,,,,,,,,,,No,No,,23.8,,,,
+Catalyst,CPRX,15.31,7.0,,,,,,,,,,No,No,,18.2,,,,
+IDX Inc,IDXX,17.44,7.0,Green,Yellow,Yellow,Green,Green,Green,,,,No,No,1.7,17.8,No,No,No,No
+Phoenix,PEV,-11.15,1.0,,,,,,,,,,No,No,,,,,,
+X1,FRZA,3.2,2.0,,,,,,,,,,No,No,,,,,,
+Atlassian,TEAM,6.97,3.0,Green,Green,Green,Green,Green,Green,2025.0,2.37,0.86,Yes,Yes,1.6,16.7,No,No,No,No
+Beamr,BMR,36.47,3.0,,,,,,,,,,No,No,,,,,,
+Docebo,DCBO,7.08,8.0,,,,,,,,,,No,No,,22.1,,,,
+Integra,POWI,35.88,6.0,,,,,,,,,,No,No,,27.6,,,,
+Neosperience,NSP,5.26,6.0,,,,,,,,,,No,No,,12.4,,,,
+Smartsheet,SMAR,4.12,6.0,Green,Yellow,Green,Green,Yellow,Green,,,,No,No,2.6,18.3,No,No,No,No
+VTEX,VTEX,9.16,6.0,,,,,,,,,,No,No,,,,,,
+WalkMe,WKME,1.39,5.0,,,,,,,,,,No,No,,22.6,,,,
+Zoom video communications Inc.,ZM,7.82,7.0,Green,Yellow,Yellow,Green,Green,Green,,,,No,No,1.6,15.2,No,No,No,No
+SK C&C,EDTK,0.17,2.0,,,,,,,,,,No,No,,,,,,
+BD,BDC,2.79,6.0,,,,,,,,,,No,No,,18.9,,,,
+Green & Red Technologies. Pte. Ltd.,GPRE,2.46,4.0,,,,,,,,,,No,No,,23.4,,,,
+Net Solutions,MNDR,110.31,1.0,,,,,,,,,,No,No,,,,,,
+"R-unit, Inc.",URI,3.06,7.0,Green,Green,Green,Green,Green,Green,2030.0,0.52,0.86,Yes,Yes,2.6,17.0,No,No,No,No
+C/D/H,CODI,1.37,5.0,,,,,,,,,,No,No,,28.1,,,,
+NDS Corporation,NDSN,5.72,6.0,Green,Green,Green,Green,Green,Green,2050.0,1.75,1.07,Yes,Yes,1.9,24.9,No,No,No,No
+miracle,SMG,1.67,4.0,,,,,,,,,,No,No,,,,,,
+Model-N,MODN,2.05,4.0,,,,,,,,,,No,No,,22.7,,,,
+Medifast,MED,7.17,7.0,Green,Green,Green,Green,Green,Green,2030.0,100.0,-6.5,Yes,Yes,2.4,23.8,No,No,No,No
+Lithium,PLL,2.46,3.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.7,41.7,No,No,No,No
+Pacific Biosciences,PACB,-1.23,4.0,,,,,,,,,,No,No,,19.0,,,,
+Anders & Rodewyk GmbH,ANDE,5.15,8.0,,,,,,,,,,No,No,,29.9,,,,
+Capito Ltd.,CAJ,3.78,7.0,,,,,,,,,,No,No,,,,,,
+Comp SA,SANW,0.03,4.0,,,,,,,,,,No,No,,,,,,
+Evercom,EVCM,1.42,6.0,,,,,,,,,,No,No,,26.3,,,,
+Global Brands,DIN,1.07,8.0,Green,Yellow,Yellow,Green,Green,Green,,,,No,No,2.2,28.5,No,No,Yes,Yes
+Mitre Corp.,MMC,3.34,5.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.45,Yes,Yes,1.7,21.6,No,No,No,No
+Tier 3,GTE,0.01,4.0,,,,,,,,,,No,No,,,,,,
+Varonis,VRNS,4.52,6.0,,,,,,,,,,No,No,,26.9,,,,
+Honeywell,HON,3.78,8.0,Yellow,Orange,Green,Orange,Yellow,Green,2037.0,100.0,-0.97,Yes,Yes,,,No,No,No,No
+K12,LRN,4.64,8.0,,,,,,,,,,No,No,,15.9,,,,
+SAD,SDOT,3.33,3.0,,,,,,,,,,No,No,,,,,,
+JFrog,FROG,8.81,5.0,,,,,,,,,,No,No,,21.6,,,,
+Grid Dynamics,GDYN,10.13,2.0,,,,,,,,,,No,No,,31.6,,,,
+"SHIFT, Inc.",PIXY,-160.47,3.0,,,,,,,,,,No,No,,,,,,
+BCC,BCC,6.33,4.0,,,,,,,,,,No,No,,21.7,,,,
+Eaton,ETN,5.39,8.0,Green,Green,Green,Green,Green,Green,2030.0,3.82,0.87,Yes,Yes,,,No,No,No,No
+I-TECO,TGEN,-0.51,2.0,,,,,,,,,,No,No,,,,,,
+Schneider Electric,SCHN,2.72,3.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.3,,No,No,No,No
+Blackbaud,BLKB,1.69,7.0,,,,,,,,,,No,No,,17.0,,,,
+Diamond,FANG,2.68,4.0,Green,Green,Green,Green,Green,Green,2030.0,3.4,0.78,Yes,Yes,,37.9,No,No,No,No
+Expion,XPON,-2.15,3.0,,,,,,,,,,No,No,,,,,,
+Itron,ITRI,2.99,8.0,,,,,,,,,,No,No,,9.2,,,,
+Secure,SCWX,0.42,3.0,,,,,,,,,,No,No,,,,,,
+Carrier,CARR,2.21,5.0,Yellow,Orange,Green,Orange,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.6,18.2,No,No,No,No
+Enphase,ENPH,5.26,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,,20.7,No,No,No,No
+Whirlpool,WHR,2.1,7.0,,,,,,,,,,No,No,,15.6,,,,
+DC Systems,DCTH,-18.09,2.0,,,,,,,,,,No,No,,,,,,
+ABB,ABB,3.92,7.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,3.2,,No,No,No,No
+Intellinet,INLX,1.49,7.0,,,,,,,,,,No,No,,,,,,
+MIG & Co,MIGI,-4.74,2.0,,,,,,,,,,No,No,,,,,,
+RBA,RBA,1.8,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.1,19.4,No,No,No,No
+Tyler Technologies,TYL,8.46,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,19.5,No,No,No,No
+"ENS Group, Inc.",ENSG,3.11,5.0,,,,,,,,,,No,No,,32.4,,,,
+BEI,BGNE,3.1,3.0,,,,,,,,,,No,No,,,,,,
+AgileThought,AGILQ,-1.72,5.0,,,,,,,,,,No,No,,,,,,
+"DMC, Inc.",BOOM,2.16,8.0,,,,,,,,,,No,No,,29.6,,,,
+AIM Technologies,AIM,-32.86,3.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.9,,No,No,No,No
+Vision & Hope,CGNT,1.44,5.0,,,,,,,,,,No,No,,,,,,
+ComTech,CMTL,0.93,3.0,,,,,,,,,,No,No,,22.4,,,,
+On Technology,OCFT,-0.93,3.0,,,,,,,,,,No,No,,,,,,
+H&D Corporation,H,1.89,7.0,,,,,,,,,,No,No,,,,,,
+CTS,CTS,6.71,7.0,,,,,,,,,,No,No,,,,,,
+M2,BOSC,-0.16,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.5,,No,No,No,No
+(ERICSSON),ERIC,1.64,5.0,Green,Orange,Green,Green,Orange,Yellow,2050.0,100.0,-3.57,Yes,Yes,1.3,,No,No,No,No
+(PS Solutions),PSIX,1.26,7.0,,,,,,,,,,No,No,,,,,,
+Criteo,CRTO,2.2,6.0,,,,,,,,,,No,No,,16.3,,,,
+eBay,EBAY,4.82,7.0,Green,Yellow,Yellow,Green,Green,Green,2035.0,4.09,0.81,Yes,Yes,3.8,17.4,No,No,No,No
+Turn,TURN,21.86,4.0,,,,,,,,,,No,No,,,,,,
+Integral Ad Science,IAS,3.93,6.0,,,,,,,,,,No,No,,22.4,,,,
+Signal,FSS,7.48,8.0,,,,,,,,,,No,No,,25.8,,,,
+PubMatic,PUBM,2.75,6.0,,,,,,,,,,No,No,,24.3,,,,
+DoubleVerify,DV,19.44,6.0,,,,,,,,,,No,No,,,,,,
+Equifax,EFX,3.47,5.0,Green,Yellow,Yellow,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.5,23.4,,,,
+TRA Global,GBTG,0.98,5.0,,,,,,,,,,No,No,,20.8,,,,
+The Trade Desk,TTD,10.24,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.0,22.4,No,No,No,No
+Applovin,APP,4.31,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,,No,No,No,No
+Skillz,SKLZ,-3.34,3.0,,,,,,,,,,No,No,,,,,,
+Petco,WOOF,0.21,4.0,,,,,,,,,,No,No,,16.5,,,,
+Target,TGT,3.46,7.0,Green,Yellow,Yellow,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.5,18.2,,,,
+MTN,MTN,1.86,7.0,Green,Yellow,Green,Yellow,Green,Yellow,2040.0,100.0,-5.26,Yes,Yes,1.5,22.2,No,No,No,No
+G-Mobile,MBLY,21.65,5.0,,,,,,,,,,No,No,,25.7,,,,
+Coinbase,COIN,0.22,5.0,Green,Green,Green,Green,Green,Yellow,,,,No,No,1.8,27.8,No,No,No,No
+Confluent,CFLT,3.09,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,19.8,No,No,No,No
+KX,KXIN,-9.18,2.0,,,,,,,,,,No,No,,,,,,
+Collective,CAUD,-0.65,4.0,,,,,,,,,,No,No,,,,,,
+compass,CMP,1.28,3.0,Green,Green,Green,Green,Green,Green,2035.0,100.0,-6.79,Yes,Yes,2.7,,No,No,No,No
+Baidu,BIDU,2.74,7.0,,,,,,,,,,No,No,,,,,,
+Cardlytics,CDLX,-2.04,4.0,,,,,,,,,,No,No,,29.3,,,,
+Rhythm,RYTM,4.87,3.0,,,,,,,,,,No,No,,25.7,,,,
+Roku,ROKU,3.34,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.4,17.2,No,No,No,No
+Snack,JJSF,6.77,7.0,,,,,,,,,,No,No,,37.4,,,,
+AdTheorent,ADTH,6.34,4.0,,,,,,,,,,No,No,,,,,,
+Manage,WM,3.57,7.0,Green,Yellow,Green,Green,Yellow,Green,2038.0,100.0,-4.71,Yes,Yes,2.3,,No,No,No,No
+RUN,RUN,-0.02,1.0,,,,,,,,,,No,No,,21.5,,,,
+TripAdvisor,TRIP,2.72,7.0,Green,Green,Green,Green,Green,Green,2030.0,100.0,-5.94,Yes,Yes,,26.4,,,,
+Netflix,NFLX,7.18,8.0,Green,Yellow,Yellow,Green,Yellow,Yellow,2030.0,100.0,-12.5,Yes,Yes,1.7,16.0,No,No,No,No
+Nike,NKE,6.0,8.0,Green,Orange,Green,Green,Orange,Green,2050.0,100.0,-3.57,Yes,Yes,1.5,18.9,No,No,No,No
+Stitch Fix,SFIX,1.77,6.0,,,,,,,,,,No,No,,16.1,,,,
+Wiley,WLY,1.88,6.0,,,,,,,,,,No,No,,13.1,,,,
+Eco,ECO,2.17,5.0,Yellow,Yellow,Green,Yellow,Green,Green,2050.0,100.0,-3.57,Yes,Yes,2.0,,No,No,No,No
+Toyota,TM,1.97,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.4,,No,No,No,Yes
+CenturyLink,LUMN,-1.26,4.0,,,,,,,,,,No,No,,29.9,,,,
+Fortune,FBIN,2.95,8.0,Green,Green,Green,Green,Green,Green,2030.0,3.89,0.85,Yes,Yes,2.8,21.5,No,No,No,No
+Napatech,NAPA,2.29,5.0,,,,,,,,,,No,No,,16.7,,,,
+Nuix,NXL,-15.13,3.0,,,,,,,,,,No,No,,23.5,,,,
+Square,MSGS,1.97,6.0,,,,,,,,,,No,No,,17.5,,,,
+Aon,AON,1.65,6.0,Green,Yellow,Yellow,Green,Green,Green,2032.0,100.0,-10.0,Yes,Yes,1.3,15.4,No,No,No,No
+Huron Consulting Group,HURN,3.14,7.0,,,,,,,,,,No,No,,17.9,,,,
+Mercer,MERC,1.27,2.0,Green,Green,Green,Green,Green,Green,,,,No,No,,20.7,No,No,No,No
+Manna,MTEX,3.42,3.0,,,,,,,,,,No,No,,,,,,
+Gild,GILD,2.56,7.0,Green,Orange,Orange,Green,Green,Green,2030.0,100.0,-10.2,Yes,Yes,1.3,22.4,No,No,No,No
+Exelon,EXC,0.71,6.0,Green,Yellow,Yellow,Green,Green,Green,2050.0,54.0,-1.33,Yes,Yes,1.5,20.8,No,No,No,No
+Synopsys,SNPS,14.5,9.0,Green,Green,Green,Green,Green,Green,2032.0,4.23,0.78,Yes,Yes,2.1,14.5,No,No,No,No
+ConAgra Foods,CAG,1.94,7.0,Green,Yellow,Yellow,Green,Green,Green,2030.0,42.05,-0.64,Yes,Yes,2.9,27.9,No,No,No,No
+Baker Hughes,BKR,1.62,7.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,5.07,0.91,Yes,Yes,1.6,21.1,No,No,No,No
+Electronic Arts,EA,5.18,8.0,Green,Yellow,Yellow,Green,Green,Green,,,,No,No,2.2,,No,No,No,No
+Reynolds Consumer Products,REYN,2.73,6.0,,,,,,,,,,No,No,,25.9,,,,
+FiscalNote,NOTE,-3.23,2.0,,,,,,,,,,No,No,,25.3,,,,
+Sprinklr,CXM,4.3,7.0,,,,,,,,,,No,No,,24.3,,,,
+Workiva,WK,2.11,3.0,,,,,,,,,,No,No,,,,,,
+"HubSpot, Inc.",HUBS,11.1,5.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.4,16.7,No,No,No,No
+"ON24, Inc.",ONTF,0.85,4.0,,,,,,,,,,No,No,,17.6,,,,
+"Bright Horizons Family Solutions, Inc.",BFAM,2.23,8.0,,,,,,,,,,No,No,,16.3,,,,
+"Procore Technologies, Inc.",PCOR,7.65,5.0,,,,,,,,,,No,No,,44.0,,,,
+CAKE,CAKE,2.19,7.0,,,,,,,,,,No,No,,27.3,,,,
+LivePerson,LPSN,-1.24,3.0,,,,,,,,,,No,No,,25.3,,,,
+Evergreen,PTVE,1.5,3.0,,,,,,,,,,No,No,,18.7,,,,
+RYAN,RYAN,1.1,6.0,,,,,,,,,,No,No,,25.6,,,,
+VST,VST,1.26,8.0,Green,Orange,Orange,Green,Green,Green,2050.0,87.3,-1.83,Yes,Yes,,,No,No,No,No
+Vistage,VTGN,6.51,4.0,,,,,,,,,,No,No,,,,,,
+EO,EOG,5.04,8.0,Green,Yellow,Green,Green,Yellow,Green,,,,No,No,,34.2,No,No,No,No
+Astral,ASTL,2.34,7.0,,,,,,,,,,No,No,,,,,,
+Eclipse,EPM,4.74,7.0,,,,,,,,,,No,No,,,,,,
+Majestic,AG,1.57,4.0,Green,Green,Green,Green,Green,Green,2035.0,18.21,-0.53,Yes,Yes,,,No,No,No,No
+HireRight,HRT,1.0,4.0,,,,,,,,,,No,No,,,,,,
+IGC,IGC,-8.44,3.0,,,,,,,,,,No,No,,,,,,
+AST,ASTE,3.76,6.0,Green,Green,Green,Green,Green,Green,2030.0,100.0,-10.7,Yes,Yes,1.3,28.5,No,No,No,No
+Weight Watchers,WW,4.3,4.0,,,,,,,,,,No,No,,,,,,
+Walgreens,WBA,1.9,6.0,Green,Yellow,Yellow,Green,Yellow,Yellow,2030.0,6.17,0.89,Yes,Yes,2.0,15.9,No,No,Yes,Yes
+Nexus,DADA,-0.56,4.0,,,,,,,,,,No,No,,24.7,,,,
+HA&W Consulting,HA,0.46,3.0,Green,Green,Green,Green,Green,Green,2032.0,1.33,0.98,Yes,Yes,1.7,,No,No,No,No
+Perr&Knight,PRGO,0.79,5.0,,,,,,,,,,No,No,,34.3,,,,
+MTP,MTP,-21.33,2.0,,,,,,,,,,No,No,,,,,,
+Ipsos,ISOS,0.7,6.0,,,,,,,,,,No,No,,,,,,
+GoDaddy,GDDY,1.55,6.0,Green,Green,Green,Green,Green,Green,2025.0,5.36,0.44,Yes,Yes,1.9,20.3,No,No,No,No
+American Eagle,AEO,4.29,8.0,Green,Green,Green,Green,Green,Green,2050.0,19.19,0.64,Yes,Yes,2.1,,No,No,Yes,Yes
+Virid,VRDN,8.39,2.0,,,,,,,,,,No,No,,28.8,,,,
+n-able,NABL,3.79,7.0,,,,,,,,,,No,No,,22.7,,,,
+Advance Auto Parts,AAP,1.84,6.0,,,,,,,,,,No,No,,11.2,,,,
+Paypal,PYPL,1.86,7.0,Green,Yellow,Yellow,Green,Green,Yellow,2040.0,100.0,-5.56,Yes,Yes,1.3,17.7,No,No,No,No
+In 2 Events,EEX,0.06,5.0,,,,,,,,,,No,No,,18.1,,,,
+Robin Robins,CHRW,6.72,7.0,Green,Yellow,Green,Green,Yellow,Green,2025.0,0.56,1.0,Yes,Yes,2.0,18.3,No,No,No,No
+CBRE,CBRE,3.44,5.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,2.7,8.1,No,No,No,No
+TED,TEDU,-4.08,6.0,,,,,,,,,,No,No,,,,,,
+AECOM,ACM,2.13,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.9,,No,No,No,No
+TRC,TRC,3.38,5.0,,,,,,,,,,No,No,,23.1,,,,
+WESTON,LW,3.44,3.0,Green,Green,Green,Green,Green,Green,2030.0,17.98,0.53,Yes,Yes,3.6,24.4,No,No,No,No
+Ascent,ASTI,-115.63,2.0,,,,,,,,,,No,No,,,,,,
+AvidXchange,AVDX,0.54,5.0,,,,,,,,,,No,No,,23.3,,,,
+Expensify,EXFY,0.68,3.0,,,,,,,,,,No,No,,24.3,,,,
+CSI,CSIQ,1.05,4.0,,,,,,,,,,No,No,,29.6,,,,
+PEARSON,PSO,2.6,7.0,,,,,,,,,,No,No,,46.1,,,,
+Aeries,AERT,-0.56,6.0,,,,,,,,,,No,No,,,,,,
+Cross,CCRN,6.29,7.0,,,,,,,,,,No,No,,19.3,,,,
+Ad-X,XNET,1.4,8.0,,,,,,,,,,No,No,,,,,,
+Marchex,MCHX,-5.71,3.0,,,,,,,,,,No,No,,,,,,
+Yandex,YNDX,2.35,6.0,,,,,,,,,,No,No,,25.4,,,,
+Rubbermaid,NWL,0.55,5.0,,,,,,,,,,No,No,,,,,,
+Carlisle & Co.,CSL,5.87,9.0,Green,Green,Green,Green,Green,Green,2030.0,14.82,0.1,Yes,Yes,1.6,21.2,No,No,No,No
+CEG,CEG,1.66,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,29.7,No,No,No,No
+Fiserv,FI,1.56,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,,No,Yes,No,No
+T Mobile,TMUS,1.47,8.0,Green,Orange,Orange,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.4,24.7,No,No,No,No
+Waters,WAT,7.49,5.0,Green,Green,Green,Green,Green,Green,2025.0,2.96,0.43,Yes,Yes,2.5,14.6,No,No,No,No
+enVista,NVST,1.55,3.0,,,,,,,,,,No,No,,28.9,,,,
+ZeroFox,ZFOX,-5.1,3.0,,,,,,,,,,No,No,,,,,,
+Translations,STG,0.93,6.0,,,,,,,,,,No,No,,31.2,,,,
+Grupo,TV,1.21,6.0,Green,Green,Green,Green,Green,Yellow,,,,No,No,4.0,,No,No,No,No
+An LOc JSC,BWA,2.54,8.0,Green,Green,Green,Green,Green,Green,2035.0,99.96,-2.35,Yes,Yes,2.4,11.4,No,No,No,No
+ATC,ATC,0.83,5.0,,,,,,,,,,No,No,,13.9,,,,
+Genom,BNGO,-6.6,4.0,,,,,,,,,,No,No,,,,,,
+Kenna,KMT,2.88,7.0,,,,,,,,,,No,No,,19.1,,,,
+NRG,NRG,1.63,3.0,Green,Yellow,Green,Yellow,Green,Green,2050.0,81.44,-2.7,Yes,Yes,,,No,No,No,No
+Springworks,SWTX,18.33,1.0,,,,,,,,,,No,No,,32.0,,,,
+Optiv,OPT,-6.25,1.0,Green,Green,Green,Green,Green,Green,2030.0,16.72,0.39,Yes,Yes,2.7,25.2,No,No,No,No
+Fluent,FLNT,-3.22,5.0,,,,,,,,,,No,No,,,,,,
+First Advantage,FA,2.77,7.0,,,,,,,,,,No,No,,,,,,
+zillow,Z,3.02,4.0,,,,,,,,,,No,No,,,,,,
+Yelp,YELP,6.98,9.0,,,,,,,,,,No,No,,22.9,,,,
+Amplitude,AMPL,4.67,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.3,20.9,No,No,No,No
+General Dynamics,GD,3.6,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,,,No,No,No,No
+Technica,UTI,2.08,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.7,18.4,No,No,No,No
+EventBrite,EB,-0.03,5.0,Green,Yellow,Yellow,Green,Green,Green,2035.0,4.09,0.81,Yes,Yes,3.8,,No,No,No,No
+BRC,BRC,7.48,7.0,,,,,,,,,,No,No,,6.4,,,,
+Korn Ferry,KFY,2.82,5.0,,,,,,,,,,No,No,,8.3,,,,
+Rev,RVTY,2.45,5.0,Green,Yellow,Yellow,Green,Green,Green,,,,No,No,1.9,17.1,No,No,No,No
+The Bond Group,GOLD,1.59,8.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,1.3,,No,No,No,No
+CCH,CCH,1.11,4.0,Green,Yellow,Yellow,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.5,19.0,No,No,No,Yes
+Thoughtworks,TWKS,1.66,4.0,,,,,,,,,,No,No,,18.2,,,,
+Vistara,VSTA,0.57,6.0,,,,,,,,,,No,No,,,,,,
+Neptune,NEPTF,-37.07,4.0,,,,,,,,,,No,No,,,,,,
+DG Technology,DGHI,-0.39,4.0,,,,,,,,,,No,No,,,,,,
+Asana,ASAN,1.27,3.0,,,,,,,,,,No,No,,22.1,,,,
+Sensu,SRTS,8.98,5.0,,,,,,,,,,No,No,,,,,,
+Avi Networks,AVNW,0.85,6.0,,,,,,,,,,No,No,,19.2,,,,
+Cabot,CTRA,2.68,6.0,Green,Yellow,Green,Yellow,Green,Green,,,,No,No,,34.1,No,No,No,No
+Fusion,FUSN,15.32,3.0,,,,,,,,,,No,No,,,,,,
+Imation,GLAE,-63.04,4.0,,,,,,,,,,No,No,,,,,,
+SeaChange,SEAC,-4.91,6.0,,,,,,,,,,No,No,,,,,,
+Illumina,ILMN,2.95,5.0,Green,Yellow,Yellow,Green,Green,Green,2050.0,61.64,-1.76,Yes,Yes,2.1,20.7,No,No,No,No
+Infinera,INFN,0.41,3.0,,,,,,,,,,No,No,,17.9,,,,
+Bigcommerce,BIGC,-0.26,5.0,,,,,,,,,,No,No,,23.2,,,,
+MX,MX,3.23,3.0,,,,,,,,,,No,No,,36.9,,,,
+"Yext, Inc.",YEXT,0.29,7.0,,,,,,,,,,No,No,,30.2,,,,
+Comcast,CMCSA,1.48,7.0,Green,Green,Green,Green,Green,Green,2035.0,11.11,-7.14,Yes,Yes,1.4,21.8,No,Yes,Yes,Yes
+8x8,EGHT,-0.4,5.0,,,,,,,,,,No,No,,29.9,,,,
+ZipRecruiter,ZIP,3.3,7.0,,,,,,,,,,No,No,,23.4,,,,
+NerdWallet,NRDS,10.62,4.0,,,,,,,,,,No,No,,23.0,,,,
+WPP,WPP,0.95,8.0,Green,Green,Green,Green,Green,Green,2030.0,100.0,-12.5,Yes,Yes,1.3,11.2,No,No,No,No
+Jazz,JAZZ,1.35,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,25.3,No,No,No,No
+Payoneer,PAYO,0.42,7.0,,,,,,,,,,No,No,,27.6,,,,
+Reddit,RDDT,29.35,1.0,,,,,,,,,,No,No,,,,,,
+Sonoco,SON,2.52,6.0,Green,Green,Green,Green,Green,Green,2030.0,96.12,-0.52,Yes,Yes,3.4,19.9,No,No,No,Yes
+Amcor,AMCR,1.88,7.0,,,,,,,,,,No,No,,15.2,,,,
+@Pay,PAY,22.38,6.0,Green,Green,Green,Green,Green,Green,2040.0,1.77,1.01,Yes,Yes,2.0,,No,No,No,No
+Creative Tech,CELZ,1.79,1.0,,,,,,,,,,No,No,,,,,,
+MRM,MRM,1.17,1.0,,,,,,,,,,No,No,,20.4,,,,
+MEI,MEI,2.01,3.0,Green,Yellow,Green,Green,Yellow,Green,,,,No,No,,8.3,No,No,No,No
+Accordant,AGL,2.41,3.0,,,,,,,,,,No,No,,,,,,
+TAI,TSM,7.96,6.0,,,,,,,,,,No,No,,,,,,
+GFS,GFS,2.08,7.0,,,,,,,,,,No,No,,,,,,
+JH,JHG,3.0,6.0,,,,,,,,,,No,No,,19.2,,,,
+ACTE,ASNS,-6.05,1.0,,,,,,,,,,No,No,,,,,,
+SITE,SITE,5.05,5.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,3.1,17.8,No,No,No,Yes
+Astro,ATRO,2.92,4.0,,,,,,,,,,No,No,,42.8,,,,
+Gen-i,GCO,2.45,6.0,,,,,,,,,,No,No,,16.2,,,,
+ON TARGET,XONE,-5.8,2.0,,,,,,,,,,No,No,,,,,,
+INT INC.,PM,3.06,6.0,Orange,Orange,Orange,Green,Yellow,Green,2040.0,100.0,-5.56,Yes,Yes,1.3,,No,No,Yes,No
+Tech Verb Inc.,VERB,-28.39,4.0,Green,Green,Green,Green,Green,Green,2050.0,30.63,0.8,Yes,Yes,1.5,,No,No,No,No
+VISION TECHNOLOGIES INC,VMAR,-6.2,2.0,,,,,,,,,,No,No,,,,,,
+DTC,DTC,0.24,4.0,,,,,,,,,,No,No,,13.3,,,,
+TRG,TRGP,2.09,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.4,33.2,No,No,No,No
+"Johnson Controls, Inc.",JCI,1.63,7.0,Yellow,Orange,Green,Orange,Green,Green,2030.0,65.99,0.25,Yes,Yes,1.8,17.8,No,No,No,No
+"AV Services, Inc.",SKAS,3.47,5.0,,,,,,,,,,No,No,,,,,,
+TOAST,TOST,11.05,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,20.4,No,No,No,No
+Comp Components,TAIT,11.77,5.0,,,,,,,,,,No,No,,,,,,
+"Shift Technologies, INC",SFTGQ,-9.3,2.0,,,,,,,,,,No,No,,,,,,
+TO SOLUTION INC,TOMZ,-3.38,2.0,,,,,,,,,,No,No,,,,,,
+ISPC,ISPC,-6.53,2.0,,,,,,,,,,No,No,,,,,,
+Tech-Keys,KEYS,5.81,7.0,Green,Green,Green,Green,Green,Green,2040.0,3.79,0.84,Yes,Yes,2.6,7.6,No,No,No,No
+OTI,OTIS,3.41,8.0,Green,Yellow,Green,Green,Yellow,Green,,,,No,No,1.7,20.5,No,No,No,No
+"ENT, INC",LYV,1.85,5.0,Green,Yellow,Yellow,Green,Green,Green,2030.0,10.72,0.08,Yes,Yes,2.2,21.3,No,No,No,Yes
+SNAP INC,SNAP,1.33,4.0,Green,Yellow,Yellow,Green,Green,Green,2025.0,62.35,-13.75,Yes,Yes,1.3,20.9,No,No,No,No
+WDS,WDS,1.45,6.0,Yellow,Green,Green,Green,Green,Green,2050.0,9.35,0.72,Yes,Yes,2.8,27.7,No,No,No,No
+ME-TECH Inc.,HSDT,-31.71,2.0,,,,,,,,,,No,No,,,,,,
+COMMSCOPE,COMM,-0.15,5.0,Green,Yellow,Yellow,Green,Green,Green,2030.0,91.31,-3.67,Yes,Yes,2.8,13.6,No,No,No,No
+BIOS Technologies,BSGM,-243.92,3.0,,,,,,,,,,No,No,,,,,,
+NHC,NHC,4.13,8.0,,,,,,,,,,No,No,,33.9,,,,
+"ICA, Inc.",ICAD,-5.64,4.0,,,,,,,,,,No,No,,7.1,,,,
+ESP,ESP,5.93,5.0,,,,,,,,,,No,No,,16.7,,,,
+CRI,CRI,3.64,7.0,,,,,,,,,,No,No,,14.9,,,,
+Quanta Inc,PWR,4.37,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.0,37.1,No,No,No,No
+CR Enterprises,CRGEQ,1.65,4.0,,,,,,,,,,No,No,,,,,,
+"ASE, Inc",ASXC,-24.48,4.0,,,,,,,,,,No,No,,,,,,
+NETWORK TECHNOLOGIES INC,NTIP,17.51,4.0,,,,,,,,,,No,No,,,,,,
+"W W T, INC",WTS,7.35,7.0,,,,,,,,,,No,No,,13.2,,,,
+ROBERT HALF,RHI,6.37,5.0,Green,Green,Green,Green,Green,Green,2032.0,1.33,0.98,Yes,Yes,1.7,,No,No,No,No
+GPS,GPS,2.51,8.0,,,,,,,,,,No,No,,16.6,,,,
+"WAV, INC.",WAVD,-8.57,4.0,,,,,,,,,,No,No,,,,,,
+Quest Solution,OMQS,-5.57,4.0,,,,,,,,,,No,No,,,,,,
+"Core Technologies, Inc.",CMT,4.52,7.0,,,,,,,,,,No,No,,,,,,
+M C M INC,MRK,4.27,6.0,Green,Green,Green,Green,Green,Green,2050.0,81.73,-2.71,Yes,Yes,2.0,22.1,No,No,No,No
+Westin,WAB,3.36,8.0,Green,Yellow,Green,Green,Yellow,Green,2030.0,5.65,0.96,Yes,Yes,1.4,,No,No,No,No
+MTC,MTC,11.75,3.0,Green,Green,Green,Green,Green,Green,2050.0,26.79,-0.08,Yes,Yes,1.5,,No,No,No,No
+EOS INC,EOSE,-8.89,3.0,,,,,,,,,,No,No,,24.7,,,,
+BMI,BMI,18.52,7.0,,,,,,,,,,No,No,,8.8,,,,
+Corporate,CVS,2.12,6.0,Green,Yellow,Yellow,Green,Yellow,Yellow,2050.0,100.0,-3.57,Yes,Yes,1.4,,No,No,No,Yes
+Mesa,MESA,0.01,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,,,No,No,No,No
+MGI INTERNATIONAL,MGIH,2.04,2.0,,,,,,,,,,No,No,,,,,,
+COMPUTER PRO,TBRG,0.95,5.0,,,,,,,,,,No,No,,20.2,,,,
+PCG,PCG,0.46,7.0,Green,Green,Green,Green,Green,Green,2050.0,29.62,-0.25,Yes,Yes,,31.9,No,No,No,No
+Business Services,BBSI,3.25,7.0,,,,,,,,,,No,No,,11.9,,,,
+IT Central,CLII,1.15,3.0,,,,,,,,,,No,No,,,,,,
+"ES Tech, Inc.",ESE,4.34,8.0,,,,,,,,,,No,No,,29.4,,,,
+"Perspective, Inc.",CATX,22.55,3.0,,,,,,,,,,No,No,,,,,,
+PC PEOPLE,PG,5.94,8.0,Yellow,Orange,Yellow,Orange,Yellow,Green,2030.0,100.0,-0.99,Yes,Yes,1.5,,No,No,No,No
+SE Solutions,KTOS,2.88,5.0,,,,,,,,,,No,No,,45.9,,,,
+"AQ Technologies, Inc",AQB,-1.93,1.0,,,,,,,,,,No,No,,,,,,
+918 Solutions,VQS,-2.78,2.0,,,,,,,,,,No,No,,,,,,
+PDF Solutions Inc,PDFS,12.13,8.0,,,,,,,,,,No,No,,21.3,,,,
+E-9 Corporation,VLO,4.88,7.0,Yellow,Yellow,Green,Yellow,Yellow,Green,2035.0,7.16,0.44,Yes,Yes,,31.3,No,No,No,No
+RSI Inc,RSI,7.44,4.0,,,,,,,,,,No,No,,33.6,,,,
+Fulcrum,FULC,9.17,3.0,,,,,,,,,,No,No,,,,,,
+ASTC,ASTC,-3.6,4.0,,,,,,,,,,No,No,,,,,,
+Global Solutions Inc,CLMB,2.19,6.0,,,,,,,,,,No,No,,13.1,,,,
+"Advent Technologies, Inc.",ADN,-8.83,2.0,,,,,,,,,,No,No,,,,,,
+LEIDOS,LDOS,3.16,9.0,Green,Green,Green,Green,Green,Yellow,2040.0,9.84,0.72,Yes,Yes,1.6,17.5,No,No,No,No
+HQ,HQY,4.36,8.0,,,,,,,,,,No,No,,21.2,,,,
+ATI,ATI,2.87,5.0,,,,,,,,,,No,No,,,,,,
+L-COM INC,LOW,3.93,7.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,1.9,12.6,No,No,No,No
+Fuse,BELFB,5.21,8.0,,,,,,,,,,No,No,,18.2,,,,
+ON SYSTEMS INC,OSS,5.53,3.0,,,,,,,,,,No,No,,,,,,
+Smith Micro Software,SMSI,-3.8,4.0,,,,,,,,,,No,No,,,,,,
+"CLEAR, INC.",CLFD,9.92,6.0,,,,,,,,,,No,No,,19.4,,,,
+GBT,GBT,1.65,4.0,,,,,,,,,,No,No,,,,,,
+PSX,PSX,3.75,4.0,Yellow,Orange,Green,Orange,Green,Green,,,,No,No,,,No,No,No,No
+Cadre,CDRE,5.37,7.0,,,,,,,,,,No,No,,47.0,,,,
+Odyssey,OMEX,-27.4,2.0,,,,,,,,,,No,No,,,,,,
+DTS,DTSS,47.01,4.0,,,,,,,,,,No,No,,,,,,
+SOURCE INC,CTOS,0.92,5.0,,,,,,,,,,No,No,,28.9,,,,
+Omaha,BOC,2.11,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,,,No,No,No,No
+ID Systems,PWFL,3.97,4.0,,,,,,,,,,No,No,,,,,,
+Best Buy,BBY,4.3,7.0,Green,Green,Green,Green,Green,Green,2050.0,54.47,0.42,Yes,Yes,3.1,31.8,No,No,No,No
+"DUOS TECHNOLOGIES, INC",DUOT,-7.17,3.0,,,,,,,,,,No,No,,,,,,
+AG SYSTEMS INC,UAVS,-13.83,3.0,,,,,,,,,,No,No,,,,,,
+"MAGi, Inc.",NMGX,-6.01,4.0,,,,,,,,,,No,No,,,,,,
+Lantronix,LTRX,0.23,3.0,,,,,,,,,,No,No,,,,,,
+Office,ODP,2.49,7.0,,,,,,,,,,No,No,,,,,,
+"Advanced Research, Ltd.",SPRC,-4.73,2.0,,,,,,,,,,No,No,,30.5,,,,
+AAC INC,AACG,-1.31,6.0,,,,,,,,,,No,No,,,,,,
+Innovative Solutions and Support,ISSC,5.88,4.0,,,,,,,,,,No,No,,,,,,
+DIV NET,IPDN,-20.22,3.0,,,,,,,,,,No,No,,,,,,
+FTC INC,FTCI,-2.64,3.0,,,,,,,,,,No,No,,21.3,,,,
+ADVANCED SYSTEMS INC,WMS,6.24,6.0,,,,,,,,,,No,No,,26.5,,,,
+T-Tek,SOTK,8.66,4.0,,,,,,,,,,No,No,,,,,,
+BTG,BTG,2.87,5.0,,,,,,,,,,No,No,,38.7,,,,
+BEK Inc,BEKE,2.85,7.0,,,,,,,,,,No,No,,,,,,
+TEC Incorporated,TDY,3.34,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.8,35.3,No,No,No,No
+Focus,FCUV,-2.23,5.0,,,,,,,,,,No,No,,,,,,
+IHS,IHS,-0.54,4.0,,,,,,,,,,No,No,,20.0,,,,
+SPI,SPI,-4.0,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,12.2,No,No,No,Yes
+Quik,QUIK,-4.49,4.0,,,,,,,,,,No,No,,,,,,
+V2,VVX,1.97,3.0,,,,,,,,,,No,No,,21.5,,,,
+"Intapp, Inc.",INTA,4.19,6.0,Green,Green,Green,Green,Green,Green,2050.0,6.4,0.85,Yes,Yes,1.5,23.4,No,No,No,No
+Akanda,AKAN,-21.24,3.0,,,,,,,,,,No,No,,,,,,
+Mobiquity,MOBQ,-75.48,2.0,,,,,,,,,,No,No,,,,,,
+Expedia,EXPE,0.89,7.0,Green,Yellow,Yellow,Green,Green,Yellow,,,,No,No,,23.0,No,No,No,No
+Priceline.com,BKNG,5.72,6.0,Green,Green,Green,Green,Green,Yellow,2050.0,100.0,-3.57,Yes,Yes,,19.1,No,No,No,No
+Airbnb,ABNB,5.93,5.0,Green,Yellow,Yellow,Green,Green,Yellow,2030.0,100.0,-12.5,Yes,Yes,1.3,24.3,No,No,No,No
+2U,TWOU,-1.45,5.0,,,,,,,,,,No,No,,26.8,,,,
+Harte Hanks,HHS,11.62,2.0,,,,,,,,,,No,No,,,,,,
+NOV,NOV,2.1,6.0,Green,Yellow,Yellow,Green,Green,Yellow,2040.0,100.0,-5.56,Yes,Yes,1.3,25.8,No,No,No,No
+QuinStreet,QNST,6.95,3.0,,,,,,,,,,No,No,,26.1,,,,
+POSCO,PKX,2.48,6.0,,,,,,,,,,No,No,,,,,,
+Coca-Cola Enterprises,CCEP,2.14,7.0,Green,Yellow,Green,Green,Yellow,Green,2040.0,100.0,-5.56,Yes,Yes,1.7,16.3,No,No,No,Yes
+ADT,ADT,0.51,7.0,,,,,,,,,,No,No,,40.2,,,,
+Chipotle,CMG,13.34,7.0,Green,Yellow,Green,Green,Yellow,Green,2030.0,100.0,-8.2,Yes,Yes,1.8,20.7,No,No,No,Yes
+Heidrick & Struggles,HSII,2.19,3.0,,,,,,,,,,No,No,,10.3,,,,
+Herman Miller,MLKN,1.83,7.0,,,,,,,,,,No,No,,9.4,,,,
+Kelly Services,KELYA,3.24,8.0,,,,,,,,,,No,No,,9.0,,,,
+Spotify,SPOT,6.76,4.0,,,,,,,,,,No,No,,22.0,,,,
+Stanley Black & Decker,SWK,1.76,5.0,Green,Green,Green,Green,Green,Green,2030.0,50.3,0.28,Yes,Yes,1.4,,No,No,No,No
+Surf Air,SRFM,-15.73,3.0,,,,,,,,,,No,No,,,,,,
+The Hershey Company,HSY,5.09,7.0,Green,Yellow,Green,Green,Yellow,Green,2030.0,100.0,-2.34,Yes,Yes,2.1,21.9,No,No,No,No
+Ford,FORD,-0.08,5.0,Green,Orange,Orange,Green,Yellow,Green,2035.0,59.84,-1.26,Yes,Yes,1.8,,No,No,No,No
+Humana,HUM,4.18,5.0,Green,Yellow,Yellow,Green,Green,Green,2032.0,43.87,-1.1,Yes,Yes,1.4,,No,No,No,No
+Groupon,GRPN,-2.73,4.0,,,,,,,,,,No,No,,29.2,,,,
+Garmin,GRMN,16.27,7.0,,,,,,,,,,No,No,,20.6,,,,
+Coursera,COUR,2.77,3.0,,,,,,,,,,No,No,,20.9,,,,
+Sky,SKY,8.63,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.9,24.6,No,No,No,No
+Synchronoss,SNCR,-1.58,6.0,,,,,,,,,,No,No,,,,,,
+Grainger,GWW,11.1,7.0,Green,Green,Green,Green,Green,Green,2030.0,1.04,1.01,Yes,Yes,,15.8,No,No,No,No
+Norfolk Southern Corporation,NSC,1.88,5.0,Yellow,Orange,Yellow,Orange,Yellow,Green,2034.0,48.16,-0.68,Yes,Yes,3.5,23.9,No,No,No,No
+Medtronic,MDT,2.9,7.0,Green,Orange,Orange,Green,Green,Yellow,2030.0,0.97,0.9,Yes,Yes,,22.5,No,No,No,No
+BuzzFeed,BZFD,-2.2,4.0,,,,,,,,,,No,No,,,,,,
+Viacom,PARA,1.22,5.0,Green,Orange,Orange,Green,Yellow,Orange,2030.0,6.99,0.11,Yes,Yes,1.8,15.0,No,No,No,No
+AstraZeneca,AZN,2.91,6.0,Green,Yellow,Yellow,Green,Yellow,Yellow,2045.0,100.0,-4.35,Yes,Yes,1.3,22.0,No,No,No,No
+Gilt,GILT,0.22,7.0,,,,,,,,,,No,No,,18.8,,,,
+Turbine,APPS,-0.25,3.0,,,,,,,,,,No,No,,13.3,,,,
+Squarespace,SQSP,1.84,4.0,,,,,,,,,,No,No,,23.9,,,,
+VSCO,VSCO,1.74,7.0,,,,,,,,,,No,No,,16.9,,,,
+AmerisourceBergen,COR,4.9,8.0,Green,Green,Green,Green,Green,Orange,2032.0,0.71,0.98,Yes,Yes,1.7,12.3,No,No,No,No
+American Woodmark,AMWD,3.5,7.0,,,,,,,,,,No,No,,34.3,,,,
+AVIS,CAR,0.72,6.0,,,,,,,,,,No,No,,14.6,,,,
+Pediatrix Medical Group,MD,1.19,6.0,,,,,,,,,,No,No,,,,,,
+Sabre,SABR,-0.41,4.0,,,,,,,,,,No,No,,23.0,,,,
+Sonus Networks,RBBN,-0.66,5.0,,,,,,,,,,No,No,,16.0,,,,
+Dillards,DDS,8.21,6.0,,,,,,,,,,No,No,,18.2,,,,
+Las Vegas Sands Corp,LVS,2.42,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.9,21.6,No,Yes,Yes,Yes
+Marriott International,MAR,3.53,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.4,,No,No,No,No
+Duke Energy,DUK,0.64,6.0,Green,Orange,Orange,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,3.3,28.1,No,No,No,No
+Cars.com,CARS,0.55,6.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.26,Yes,Yes,1.3,21.1,No,No,No,No
+Diageo,DEO,2.62,6.0,,,,,,,,,,No,No,,,,,,
+FMC Corporation,FMC,2.06,5.0,Green,Green,Green,Green,Green,Green,2035.0,100.0,-7.69,Yes,Yes,1.5,,No,No,No,No
+KPN,KPN,7.85,1.0,,,,,,,,,,No,No,,17.3,,,,
+Lennox International,LII,8.19,6.0,Green,Green,Green,Green,Green,Green,2034.0,97.94,-1.59,Yes,Yes,1.7,20.4,No,No,No,No
+Moody's Corporation,MCO,6.17,8.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.3,,No,No,No,No
+Tempur Sealy International,TPX,3.82,7.0,,,,,,,,,,No,No,,13.4,,,,
+Chegg,CHGG,0.86,7.0,,,,,,,,,,No,No,,7.4,,,,
+Western & Southern Financial Group,WDC,2.01,2.0,Green,Green,Green,Green,Green,Green,2032.0,29.93,-1.55,Yes,Yes,2.7,11.1,No,No,No,No
+James Hardie,JHX,5.15,7.0,Green,Green,Green,Green,Green,Green,2050.0,16.64,0.36,Yes,Yes,1.4,29.9,No,No,No,No
+Davita,DVA,1.6,8.0,Green,Yellow,Green,Green,Yellow,Yellow,2030.0,11.29,-0.31,Yes,Yes,2.0,22.2,No,No,No,No
+Navitas,NVTS,3.46,3.0,,,,,,,,,,No,No,,35.9,,,,
+Zoetis,ZTS,7.7,8.0,Green,Yellow,Yellow,Green,Green,Green,2030.0,16.13,-1.15,Yes,Yes,1.6,15.7,No,No,No,No
+OSRAM,AMS,1.45,7.0,Green,Green,Green,Green,Green,Green,2050.0,1.65,1.07,Yes,Yes,1.8,14.3,No,No,No,No
+Essilor International,ESLOY,3.14,3.0,,,,,,,,,,No,No,,,,,,
+Sonic,SAH,3.53,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,,,No,No,No,No
+DTE Energy,DTE,0.93,5.0,Yellow,Orange,Orange,Green,Green,Green,2050.0,100.0,-3.45,Yes,Yes,2.9,18.6,No,No,No,No
+Eli Lilly & Company,LLY,9.56,7.0,Green,Yellow,Yellow,Green,Yellow,Green,2030.0,8.79,-0.15,Yes,Yes,1.5,24.3,No,No,No,No
+Boston Scientific,BSX,4.67,7.0,Green,Yellow,Yellow,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,3.7,23.2,No,No,No,No
+Anglo American,AAL,0.68,7.0,,,,,,,,,,No,No,,,,,,
+UN Foundation,FCN,6.37,6.0,,,,,,,,,,No,No,,,,,,
+Six Flags,SIX,0.04,8.0,,,,,,,,,,No,No,,27.1,,,,
+Amyris,AMRSQ,-9.18,2.0,,,,,,,,,,No,No,,,,,,
+Canadian Pacific,CP,1.94,6.0,Green,Yellow,Yellow,Yellow,Yellow,Green,2030.0,55.78,-2.4,Yes,Yes,4.0,,No,No,No,No
+Columbia Sportswear,COLM,6.64,7.0,,,,,,,,,,No,No,,14.7,,,,
+IO,IONS,1.43,3.0,,,,,,,,,,No,No,,26.9,,,,
+Molina Healthcare,MOH,4.42,4.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,,24.1,No,No,No,No
+Woolworths,WOW,-0.06,5.0,Green,Orange,Green,Green,Orange,Green,2050.0,100.0,-0.73,Yes,Yes,2.0,23.5,No,No,Yes,Yes
+ARC,ARC,1.85,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.3,,No,No,No,No
+CHS,CHS,3.19,6.0,,,,,,,,,,No,No,,,,,,
+Ryanair,RYAAY,2.5,8.0,,,,,,,,,,No,No,,,,,,
+SGN,SGN,-6.12,5.0,,,,,,,,,,No,No,,,,,,
+Pfizer,PFE,1.67,4.0,Green,Orange,Orange,Green,Yellow,Yellow,2040.0,100.0,-5.56,Yes,Yes,1.3,18.1,No,No,No,No
+Johnson & Johnson,JNJ,4.71,8.0,Green,Orange,Orange,Yellow,Green,Orange,2050.0,100.0,-3.14,Yes,Yes,1.3,22.1,No,No,No,No
+Manpower,MAN,3.36,5.0,Green,Yellow,Green,Green,Yellow,Green,2038.0,100.0,-4.71,Yes,Yes,2.3,,No,No,No,No
+PAYCHEX,PAYX,4.16,7.0,Green,Green,Green,Green,Green,Green,2040.0,1.77,1.01,Yes,Yes,2.0,16.7,No,No,No,No
+Kraft,KHC,1.15,7.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,2.3,34.0,No,No,No,No
+CrowdStrike,CRWD,11.13,7.0,,,,,,,,,,No,No,,18.2,,,,
+Edwards Lifescience,EW,14.99,6.0,Green,Green,Green,Green,Green,Green,2030.0,62.73,-7.45,Yes,Yes,1.9,,No,No,No,No
+Zim Integrated Shipping Services Ltd.,ZIM,-0.08,2.0,Green,Green,Green,Green,Green,Green,2030.0,31.98,0.08,Yes,Yes,2.5,19.0,No,No,No,No
+NORDSTROM,JWN,1.68,6.0,,,,,,,,,,No,No,,20.5,,,,
+Etsy,ETSY,2.46,7.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.6,17.2,No,No,No,No
+Nemours,DD,1.06,7.0,Yellow,Orange,Green,Orange,Orange,Green,2050.0,37.3,0.12,Yes,Yes,,19.5,No,No,No,No
+Sally Beauty Holdings,SBH,2.67,8.0,,,,,,,,,,No,No,,17.7,,,,
+Curtiss Wright,CW,5.08,8.0,,,,,,,,,,No,No,,,,,,
+KLA-Tencor,KLAC,6.62,6.0,,,,,,,,,,No,No,,16.5,No,No,No,No
+M-net,MYTE,1.93,1.0,,,,,,,,,,No,No,,25.6,,,,
+Advantage,ADV,0.8,4.0,Green,Green,Green,Green,Green,Green,2030.0,99.38,-0.15,Yes,Yes,2.0,11.1,No,No,No,No
+disney,DIS,2.21,7.0,Green,Orange,Yellow,Green,Orange,Yellow,2030.0,42.25,-5.25,Yes,Yes,2.0,35.7,No,No,Yes,Yes
+FISKER,FSRN,-1.15,,,,,,,,,,,No,No,,25.1,,,,
+Coca-Cola,KO,4.26,8.0,Orange,Yellow,Yellow,Green,Yellow,Yellow,2030.0,100.0,0.0,Yes,Yes,2.3,,No,No,No,Yes
+Toro,TORO,3.29,6.0,,,,,,,,,,No,No,,,,,,
+SBA Communications,SBAC,0.27,7.0,,,,,,,,,,No,No,,10.4,,,,
+Parsons,PSN,3.21,6.0,Green,Yellow,Yellow,Green,Green,Green,2040.0,67.87,0.05,Yes,Yes,2.7,23.1,No,No,No,No
+Hewlett Packard Enterprise,HPE,0.83,6.0,Green,Yellow,Green,Green,Yellow,Green,2040.0,100.0,-5.56,Yes,Yes,1.5,13.3,No,No,No,No
+YouGov,YOU,3.02,5.0,Green,Red,Green,Green,Red,Green,,,,No,No,2.3,16.3,No,No,No,Yes
+Nextdoor,KIND,4.1,2.0,Green,Green,Green,Green,Green,Yellow,2050.0,31.97,-0.32,Yes,Yes,3.4,21.7,No,No,No,No
+Amgen,AMGN,1.41,5.0,Green,Yellow,Yellow,Green,Green,Green,2027.0,4.95,-0.02,Yes,Yes,1.5,23.8,No,No,No,No
+Callaway Golf,MODG,1.13,6.0,,,,,,,,,,No,No,,12.5,,,,
+Gaiam,GAIA,0.66,3.0,,,,,,,,,,No,No,,,,,,
+Gopro,GPRO,1.15,3.0,,,,,,,,,,No,No,,19.0,,,,
+Lands' End,LE,2.0,6.0,Green,Yellow,Green,Yellow,Green,Green,,,,No,No,3.1,,No,No,No,No
+Reitmans,RETa,3.31,4.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,24.14,0.01,Yes,Yes,3.5,,No,No,No,No
+Richardson,RELL,5.13,4.0,,,,,,,,,,No,No,,11.7,,,,
+Bristol-Myers Squibb,BMY,1.17,4.0,Green,Yellow,Yellow,Green,Green,Orange,2025.0,3.51,0.8,Yes,Yes,1.5,14.1,No,No,No,No
+Enpro Industries,NPO,3.2,8.0,,,,,,,,,,No,No,,29.9,,,,
+News Corporation,NWS,1.73,7.0,,,,,,,,,,No,No,,,,,,
+Sysco,SYY,5.4,7.0,Green,Orange,Green,Green,Orange,Green,2030.0,4.66,0.92,Yes,Yes,3.5,16.5,No,No,No,No
+Vanda Pharmaceutical,VNDA,2.28,6.0,,,,,,,,,,No,No,,25.1,,,,
+Trivago,TRVG,2.77,5.0,,,,,,,,,,No,No,,,,,,
+devry,ATGE,3.05,8.0,,,,,,,,,,No,No,,10.9,,,,
+1-800-Flowers,FLWS,2.51,4.0,,,,,,,,,,No,No,,22.6,,,,
+Rentokil Initial,RTO,2.03,5.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.9,15.0,No,No,No,No
+Plexus Corp,PLXS,3.3,6.0,,,,,,,,,,No,No,,7.2,,,,
+Omnicom Group,OMC,1.79,6.0,Green,Green,Green,Green,Green,Green,2030.0,100.0,-5.37,Yes,Yes,1.7,,No,No,No,No
+CF&P Insurance Brokers,CF,2.89,6.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,,,No,No,No,No
+Dr Pepper Snapple Group,KDP,1.54,7.0,Green,Green,Green,Green,Green,Green,2030.0,100.0,-10.21,Yes,Yes,1.9,24.5,No,No,No,Yes
+Hibbett Sports,HIBB,5.78,6.0,,,,,,,,,,No,No,,16.4,,,,
+Teva,TEVA,0.24,5.0,Green,Orange,Orange,Green,Green,Yellow,2030.0,100.0,-1.44,Yes,Yes,1.5,22.9,No,No,No,No
+TE Connectivity,TEL,4.59,6.0,Green,Green,Green,Green,Green,Green,2030.0,100.0,-11.72,Yes,Yes,1.7,26.8,No,No,No,No
+Caterpillar,CAT,3.93,8.0,Green,Yellow,Green,Yellow,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,2.8,,No,No,No,No
+Delphi,APTV,2.68,5.0,Green,Green,Green,Green,Green,Green,2030.0,100.0,-6.68,Yes,Yes,2.2,10.8,No,No,No,No
+GPI,GPI,3.57,5.0,,,,,,,,,,No,No,,13.1,,,,
+cigna,CI,2.28,7.0,Green,Orange,Orange,Green,Green,Yellow,2030.0,0.37,1.02,Yes,Yes,1.8,,No,No,No,No
+WellPoint,ELV,3.43,7.0,Green,Green,Green,Green,Green,Yellow,2050.0,0.71,1.12,Yes,Yes,1.4,10.6,No,No,No,No
+PepsiCo,PEP,4.05,6.0,Orange,Yellow,Yellow,Green,Green,Green,2040.0,100.0,-5.56,Yes,Yes,1.7,,No,No,No,Yes
+Triple,TFPM,32.42,5.0,,,,,,,,,,No,No,,8.9,,,,
+OEC,OEC,2.41,7.0,,,,,,,,,,No,No,,26.3,,,,
+ETA,ETAO,-78.67,2.0,,,,,,,,,,No,No,,,,,,
+nVent,NVT,3.78,4.0,,,,,,,,,,No,No,,,,,,
+EY,EYPT,4.15,6.0,,,,,,,,,,No,No,,39.1,,,,
+Concentrix,CNXC,1.32,5.0,,,,,,,,,,No,No,,17.1,,,,
+MCG,MCG,-0.12,5.0,,,,,,,,,,No,No,,,,,,
+Standard & Poor's,SMP,2.82,6.0,,,,,,,,,,No,No,,,,,,
+Vodafone,VOD,-0.48,6.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-5.43,Yes,Yes,1.7,14.5,No,No,No,No
+"ID/IP, Inc.",IPWR,2.48,3.0,,,,,,,,,,No,No,,,,,,
+Novatel,INSG,-9.66,4.0,,,,,,,,,,No,No,,,,,,
+SGL,SGLY,-15.76,2.0,,,,,,,,,,No,No,,,,,,
+Dollar General,DG,2.45,6.0,Green,Yellow,Green,Green,Yellow,Green,,,,No,No,2.4,,No,No,Yes,Yes
+Harmoney,HMY,57.39,7.0,,,,,,,,,,No,No,,,,,,
+Red Robin,RRGB,1.58,4.0,,,,,,,,,,No,No,,,,,,
+Tuft & Needle,SHIP,-0.31,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,,,No,No,No,Yes
+Radcom,RDCM,3.94,8.0,,,,,,,,,,No,No,,,,,,
+Walmart,WMT,5.09,8.0,Green,Orange,Orange,Green,Orange,Orange,2040.0,12.01,0.29,Yes,Yes,2.2,24.9,No,No,Yes,Yes
+Kellogg,K,2.8,8.0,,,,,,,,,,No,No,,,,,,
+Norwegian Cruise Line,NCLH,0.02,7.0,,,,,,,,,,No,No,,25.2,,,,
+LegalZoom,LZ,3.67,8.0,,,,,,,,,,No,No,,,,,,
+Fox,FOX,1.94,7.0,Green,Orange,Orange,Green,Yellow,Yellow,,,,No,No,1.9,,No,Yes,No,No
+NES,NES,2.54,7.0,Green,Green,Green,Green,Green,Green,2040.0,69.34,-1.72,Yes,Yes,2.7,,No,No,No,No
+SBS,SBS,2.2,6.0,,,,,,,,,,No,No,,,,,,
+The Reject Shop,TRS,2.0,7.0,,,,,,,,,,No,No,,28.0,,,,
+AXA,AXTA,2.37,9.0,,,,,,,,,,No,No,,25.5,,,,
+Hilton,HLT,2.32,8.0,Green,Yellow,Green,Green,Yellow,Green,2030.0,80.0,-3.45,Yes,Yes,,16.9,No,Yes,Yes,Yes
+Urban Outfitters,URBN,3.49,7.0,,,,,,,,,,No,No,,18.9,,,,
+Lululemon,LULU,12.55,7.0,Yellow,Yellow,Green,Yellow,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,1.7,15.2,No,No,No,No
+Ziff Davis,ZD,2.28,7.0,,,,,,,,,,No,No,,17.6,,,,
+Fiverr,FVRR,1.1,6.0,,,,,,,,,,No,No,,22.5,,,,
+Gree,GREE,-6.89,4.0,Green,Yellow,Yellow,Green,Yellow,Yellow,,,,No,No,2.0,,No,No,No,No
+Shapeways,SHPW,-8.28,2.0,,,,,,,,,,No,No,,,,,,
+Paysafe,PSFE,-0.02,5.0,,,,,,,,,,No,No,,21.0,,,,
+Riskified,RSKD,5.1,5.0,,,,,,,,,,No,No,,26.6,,,,
+Zumiez,ZUMZ,2.37,3.0,,,,,,,,,,No,No,,15.3,,,,
+Dick&Smith,BDX,2.39,7.0,Green,Green,Green,Green,Green,Green,2030.0,9.59,0.5,Yes,Yes,2.9,24.0,No,No,No,No
+Cort,CORT,17.16,6.0,Orange,Orange,Orange,Orange,Orange,Green,2030.0,50.08,-0.73,Yes,Yes,3.2,27.7,No,No,No,No
+Vizio,VZIO,4.76,4.0,,,,,,,,,,No,No,,27.5,,,,
+Nucor Corporation,NUE,4.97,6.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,2.0,32.7,No,No,No,No
+Hawkins Inc,HWKN,6.8,7.0,,,,,,,,,,No,No,,28.5,,,,
+Lamar Advertising,LAMR,1.69,7.0,,,,,,,,,,No,No,,17.3,,,,
+Honda Motor Company,HMC,1.97,5.0,,,,,,,,,,No,No,,29.7,,,,
+Sonos,SONO,4.35,6.0,Green,Green,Green,Green,Green,Green,2030.0,96.12,-0.52,Yes,Yes,3.4,15.6,No,No,No,Yes
+Telesat,TSAT,0.85,7.0,,,,,,,,,,No,No,,,,,,
+"Upland Software , Inc.",UPLD,-0.89,7.0,,,,,,,,,,No,No,,,,,,
+Grindr,GRIN,1.64,4.0,,,,,,,,,,No,No,,,,,,
+Pioneer,PXD,4.77,6.0,,,,,,,,,,No,No,,,,,,
+Augmedix,AUGX,-0.77,4.0,,,,,,,,,,No,No,,,,,,
+Taboola,TBLA,2.08,3.0,,,,,,,,,,No,No,,47.3,,,,
+Concep,VERO,-3.7,4.0,,,,,,,,,,No,No,,,,,,
+Laird,LSF,-4.31,3.0,,,,,,,,,,No,No,,,,,,
+Warby Parker,WRBY,2.72,5.0,,,,,,,,,,No,No,,18.4,,,,
+Dorado,ARCO,2.51,7.0,,,,,,,,,,No,No,,27.5,,,,
+Powel,POWL,5.03,6.0,,,,,,,,,,No,No,,23.4,,,,
+Spark Networks,LOVLY,-3.84,3.0,,,,,,,,,,No,No,,,,,,
+C3i,CISS,0.58,5.0,,,,,,,,,,No,No,,,,,,
+Motio,SIMO,7.52,5.0,Green,Green,Green,Green,Green,Green,2035.0,17.39,0.07,Yes,Yes,2.0,,No,No,No,No
+Vertex,VRTX,14.33,4.0,Green,Yellow,Yellow,Green,Green,Green,2024.0,1.36,0.7,Yes,Yes,1.5,20.3,No,No,No,No
+Marvell,MRVL,5.81,3.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.8,16.9,No,No,No,No
+General Mills,GIS,2.99,8.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,1.7,27.2,No,No,No,No
+REI,REI,0.94,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.8,,No,No,No,No
+Bandwidth,BAND,0.91,3.0,Green,Green,Green,Green,Green,Yellow,,,,No,No,2.0,23.5,No,Yes,No,Yes
+Textron,TXT,2.84,8.0,Green,Yellow,Yellow,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,,21.4,No,No,No,No
+Elbit Systems,ESLT,1.98,5.0,Green,Yellow,Green,Yellow,Green,Green,2026.0,2.53,0.89,Yes,Yes,2.8,36.2,No,No,No,No
+Scholastic,SCHL,2.82,7.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.4,15.0,No,No,No,No
+Apparel Group,GIII,3.32,9.0,,,,,,,,,,No,No,,16.1,,,,
+EDA,EDAP,3.86,2.0,,,,,,,,,,No,No,,,,,,
+Iridium,IRDM,1.57,8.0,,,,,,,,,,No,No,,25.1,,,,
+United Airlines,UAL,1.14,7.0,,,,,,,,,,No,No,,31.8,,,,
+LendingTree,TREE,-0.23,5.0,Green,Yellow,Yellow,Green,Yellow,Green,2031.0,21.0,0.48,Yes,Yes,2.2,29.1,No,No,Yes,Yes
+Fortress,NFE,0.89,6.0,,,,,,,,,,No,No,,40.7,,,,
+CURRENT,PAC,3.59,7.0,Green,Green,Green,Green,Green,Green,2030.0,66.51,-3.05,Yes,Yes,2.4,,No,No,No,No
+Global Blue,GB,0.09,7.0,,,,,,,,,,No,No,,,,,,
+HP,HP,3.43,7.0,Green,Yellow,Green,Green,Yellow,Green,2040.0,100.0,-5.56,Yes,Yes,2.0,22.3,No,No,No,No
+MORPHO,MOR,0.43,2.0,Orange,Orange,Orange,Green,Yellow,Green,2040.0,100.0,-5.56,Yes,Yes,1.3,,No,No,Yes,No
+Abbott,ABT,5.05,6.0,Green,Orange,Orange,Green,Green,Green,2030.0,1.93,0.94,Yes,Yes,,23.3,No,No,No,No
+Abercrombie & Fitch,ANF,5.53,9.0,,,,,,,,,,No,No,,15.0,,,,
+Cummins,CMI,3.5,8.0,Green,Yellow,Green,Green,Yellow,Green,2030.0,69.62,0.2,Yes,Yes,2.2,,No,No,No,No
+Guardian,UG,18.45,5.0,,,,,,,,,,No,No,,,,,,
+Kroger,KR,4.47,7.0,Green,Orange,Green,Green,Orange,Yellow,2030.0,8.13,0.75,Yes,Yes,3.6,,No,No,Yes,Yes
+Vanguard,AVD,2.29,4.0,,,,,,,,,,No,No,,39.8,,,,
+"Netlist, Inc.",NLST,-4.41,2.0,,,,,,,,,,No,No,,,,,,
+data M,AIU,11.58,5.0,,,,,,,,,,No,No,,,,,,
+GNS,GNS,-3.29,1.0,,,,,,,,,,No,No,,28.6,,,,
+Paltalk,PALT,5.21,3.0,,,,,,,,,,No,No,,,,,,
+SMTC,SMTC,-0.7,2.0,,,,,,,,,,No,No,,13.2,,,,
+Trade Me,MRCY,1.87,2.0,,,,,,,,,,No,No,,33.5,,,,
+Nu Skin,NUS,3.21,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,27.6,No,No,No,No
+Ball Corporation,BALL,2.27,8.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,2.9,11.9,No,No,No,No
+JOA,JOANQ,0.55,3.0,,,,,,,,,,No,No,,,,,,
+Miles & Stockbridge,MIST,-6.59,1.0,,,,,,,,,,No,No,,,,,,
+Nevro Corp,NVRO,0.23,3.0,,,,,,,,,,No,No,,21.9,,,,
+Tesla,TSLA,9.61,4.0,Green,Orange,Orange,Yellow,Yellow,Yellow,,,,No,No,1.5,25.0,No,No,No,No
+Adama,JEWL,-10.98,3.0,,,,,,,,,,No,No,,,,,,
+Cameco,CCJ,5.46,6.0,Green,Green,Green,Green,Green,Green,2030.0,3.19,1.0,Yes,Yes,,,No,No,No,No
+Dentsply,XRAY,1.58,6.0,,,,,,,,,,No,No,,13.5,,,,
+Goldcorp,NEM,1.26,3.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,,No,No,No,No
+SunPower,SPWR,-0.8,2.0,,,,,,,,,,No,No,,24.4,,,,
+Titan Company,TITN,2.4,2.0,,,,,,,,,,No,No,,25.9,,,,
+TransCanada,TRP,0.63,6.0,Yellow,Orange,Green,Orange,Green,Green,2050.0,67.94,-2.06,Yes,Yes,2.7,,No,No,No,No
+Where,WFCF,10.18,7.0,,,,,,,,,,No,No,,,,,,
+Chevron,CVX,4.01,5.0,Yellow,Yellow,Yellow,Yellow,Green,Green,2050.0,6.93,0.82,Yes,Yes,,36.2,No,No,Yes,Yes
+ConocoPhillips,COP,3.97,6.0,Yellow,Yellow,Green,Yellow,Green,Green,2050.0,5.08,0.91,Yes,Yes,3.3,15.6,No,No,No,No
+Cinemark,CNK,1.15,8.0,,,,,,,,,,No,No,,18.6,,,,
+JetBlue,JBLU,0.63,4.0,,,,,,,,,,No,No,,30.4,,,,
+Avant,AVTR,2.31,6.0,Green,Green,Green,Green,Green,Green,2025.0,2.04,0.97,Yes,Yes,3.0,17.9,No,No,No,No
+Cielo,CIOXY,0.58,7.0,,,,,,,,,,No,No,,,,,,
+Fedex,FDX,2.57,7.0,Green,Orange,Green,Green,Orange,Green,,,,No,No,1.6,19.5,No,No,No,No
+Travelzoo,TZOO,4.5,7.0,,,,,,,,,,No,No,,,,,,
+Codex,CDXS,-2.71,3.0,,,,,,,,,,No,No,,38.4,,,,
+G-Technology,GSIT,3.88,1.0,,,,,,,,,,No,No,,,,,,
+QualStar,QBAK,2.54,6.0,,,,,,,,,,No,No,,,,,,
+Sonnet,SONN,-36.45,2.0,,,,,,,,,,No,No,,,,,,
+Delta Air Lines,DAL,1.24,7.0,Green,Yellow,Yellow,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,2.0,9.2,No,No,No,Yes
+Phreesia,PHR,3.56,3.0,,,,,,,,,,No,No,,23.4,,,,
+Novo Nordisk,NVO,14.1,8.0,,,,,,,,,,No,No,,,,,,
+Entrada,TRDA,1.49,2.0,,,,,,,,,,No,No,,26.0,,,,
+Frontier,ULCC,0.71,,,,,,,,,,,No,No,,38.9,,,,
+HARMONIC,HLIT,-0.73,4.0,,,,,,,,,,No,No,,16.9,,,,
+CINEDIGM,CNVS,-7.78,2.0,,,,,,,,,,No,No,,,,,,
+JABIL,JBL,3.45,7.0,Green,Green,Green,Green,Green,Green,2025.0,6.82,-0.53,Yes,Yes,2.1,10.8,No,No,No,No
+Portland General Electric,POR,0.95,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,,35.5,No,No,No,Yes
+INNOVID,CTV,3.19,4.0,,,,,,,,,,No,No,,,,,,
+Advanced Energy,AEIS,3.56,6.0,,,,,,,,,,No,No,,17.8,,,,
+MAERSK,AMKBY,1.81,6.0,,,,,,,,,,No,No,,,,,,
+Coach,TPR,1.83,7.0,,,,,,,,,,No,No,,14.5,,,,
+Penske,PAG,3.13,6.0,,,,,,,,,,No,No,,,,,,
+GFI,GFI,4.03,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.4,26.6,No,No,No,No
+HAND,HY,3.02,8.0,Green,Yellow,Yellow,Green,Yellow,Green,2030.0,66.44,-2.52,Yes,Yes,,,No,Yes,Yes,Yes
+Auro,JG,-3.62,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.0,,No,No,No,Yes
+UCLOUD,UCL,-3.95,6.0,,,,,,,,,,No,No,,,,,,
+J&W Informática,J,3.24,7.0,,,,,,,,,,No,No,,,,,,
+Outbrain,OB,1.64,8.0,,,,,,,,,,No,No,,,,,,
+Truste,EQT,1.51,5.0,Green,Green,Green,Green,Green,Green,2025.0,0.62,0.8,Yes,Yes,,17.1,No,No,No,No
+Rubrik,RBRK,-1.06,1.0,,,,,,,,,,No,No,,,,,,
+Danaher,DHR,4.97,5.0,Green,Green,Green,Green,Green,Green,2032.0,3.09,0.87,Yes,Yes,2.2,10.6,No,No,No,No
+BridgePoint,ZVOI,7.06,1.0,,,,,,,,,,No,No,,,,,,
+KOHL's,KSS,1.94,7.0,,,,,,,,,,No,No,,18.6,,,,
+Sempra Energy,SRE,1.08,7.0,Green,Orange,Orange,Yellow,Green,Yellow,2030.0,37.49,-2.42,Yes,Yes,1.8,24.7,No,No,No,No
+SIG,SIG,3.05,7.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.6,,No,No,No,No
+AngioDynamics,ANGO,-0.84,3.0,,,,,,,,,,No,No,,29.0,,,,
+"Cell Therapeutics, Inc",CLDX,42.01,3.0,,,,,,,,,,No,No,,24.5,,,,
+E2open,ETWO,-1.17,5.0,,,,,,,,,,No,No,,14.1,,,,
+Enerplus Corp,ERF,5.08,8.0,Green,Green,Green,Green,Green,Green,2025.0,15.21,-4.21,Yes,Yes,1.8,43.1,No,No,No,No
+Grand Canyon Education,LOPE,17.18,6.0,,,,,,,,,,No,No,,14.3,,,,
+Staar Surgical,STAA,14.5,3.0,,,,,,,,,,No,No,,38.3,,,,
+Tandem Diabetes Care,TNDM,2.07,2.0,,,,,,,,,,No,No,,35.8,,,,
+SS&G Financial Services,SSNC,1.71,9.0,Green,Yellow,Green,Green,Yellow,Green,,,,No,No,2.0,22.2,No,No,No,No
+European Wax Center,EWCZ,0.92,6.0,,,,,,,,,,No,No,,17.2,,,,
+Halon,HALO,3.53,7.0,,,,,,,,,,No,No,,19.9,,,,
+Rumble,RMBL,0.55,3.0,,,,,,,,,,No,No,,,,,,
+INTT,INTT,4.39,7.0,,,,,,,,,,No,No,,19.7,,,,
+Altitude,ALT,15.42,2.0,Green,Yellow,Yellow,Green,Green,Green,2030.0,10.63,-0.1,Yes,Yes,2.5,,No,No,No,No
+abc,ABC,4.9,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,,,No,No,No,No
+Clorox,CLX,3.32,7.0,Yellow,Yellow,Yellow,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,2.1,,No,No,No,No
+Marathon Oil,MRO,2.55,6.0,Yellow,Green,Green,Green,Green,Green,2030.0,5.93,0.66,Yes,Yes,,37.2,No,No,No,No
+Goodyear,GT,1.39,3.0,,,,,,,,,,No,No,,,,,,
+Cintas,CTAS,12.28,9.0,Green,Yellow,Yellow,Green,Green,Green,,,,No,No,2.4,17.1,No,No,No,No
+American Electric Power,AEP,0.87,5.0,Green,Green,Green,Green,Green,Yellow,2050.0,84.62,-2.85,Yes,Yes,2.4,23.2,No,No,No,No
+Yum! Brands,YUM,2.33,9.0,Green,Yellow,Yellow,Green,Yellow,Yellow,2050.0,100.0,-3.45,Yes,Yes,2.9,,No,No,No,Yes
+Sherwin Williams,SHW,4.11,7.0,Green,Green,Green,Green,Green,Green,2030.0,3.66,0.85,Yes,Yes,3.4,29.5,No,No,No,No
+Repsol,REPYY,1.98,7.0,,,,,,,,,,No,No,,,,,,
+Dave & Buster’s,DAVE,2.11,5.0,,,,,,,,,,No,No,,,,,,
+USI,USIO,0.18,6.0,,,,,,,,,,No,No,,,,,,
+Meezan Bank,AMZN,5.47,7.0,Green,Orange,Yellow,Green,Orange,Yellow,2040.0,100.0,-5.56,Yes,Yes,2.6,29.9,No,No,No,Yes
+Ban Leong Technologies,BANL,9.59,3.0,,,,,,,,,,No,No,,,,,,
+IO Corp,IONM,-26.37,3.0,,,,,,,,,,No,No,,,,,,
+"Super Micro Computer, Inc",SMCI,15.18,4.0,Green,Green,Green,Green,Green,Green,2034.0,100.0,-6.4,Yes,Yes,2.8,19.5,No,No,No,No
+Sphere 3D,ANY,-12.67,3.0,,,,,,,,,,No,No,,,,,,
+Alliant,LNT,1.1,5.0,Green,Green,Green,Green,Green,Green,2050.0,80.18,-2.64,Yes,Yes,,17.7,No,No,No,No
+CCI,CCI,0.67,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,13.4,No,No,No,No
+Hess,HES,2.98,6.0,Yellow,Yellow,Green,Yellow,Green,Green,2050.0,4.65,0.93,Yes,Yes,,32.8,No,No,No,No
+DAI,DAIO,3.99,8.0,,,,,,,,,,No,No,,,,,,
+"Spartan Motors, Inc",SHYF,3.32,6.0,,,,,,,,,,No,No,,17.4,,,,
+Visteon,VC,4.42,7.0,,,,,,,,,,No,No,,,,,,
+McGraw-Hill,SPGI,4.46,8.0,Green,Green,Green,Green,Green,Green,2040.0,2.51,0.92,Yes,Yes,1.8,13.0,No,No,No,No
+Alya,ALYA,1.04,5.0,,,,,,,,,,No,No,,,,,,
+NextNav,NN,0.1,2.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.45,Yes,Yes,1.4,,No,No,No,No
+Petrobras,PBR,2.01,7.0,,,,,,,,,,No,No,,,,,,
+Digi-Me,DMSL,0.63,2.0,,,,,,,,,,No,No,,,,,,
+Dole,DOLE,2.44,8.0,,,,,,,,,,No,No,,19.3,,,,
+ACCO Brands,ACCO,0.76,5.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,,5.7,No,Yes,Yes,Yes
+Impinj,PI,8.39,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.5,,No,No,No,No
+Sony,SONY,1.0,7.0,Green,Yellow,Yellow,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,1.6,,No,No,No,No
+Black Diamond,CLAR,2.51,7.0,Green,Green,Green,Green,Green,Green,2030.0,16.75,-0.25,Yes,Yes,2.5,,No,No,No,No
+SCI,SCI,0.84,6.0,Green,Green,Green,Green,Green,Green,2025.0,15.21,-4.21,Yes,Yes,1.8,,No,No,No,No
+Bavarian Nordic,BVNRY,3.77,6.0,,,,,,,,,,No,No,,,,,,
+Ameren,AEE,0.85,5.0,Yellow,Yellow,Green,Yellow,Green,Green,2050.0,82.5,-2.75,Yes,Yes,3.5,26.3,No,No,No,No
+Entergy,ETR,0.85,6.0,Green,Yellow,Yellow,Yellow,Green,Yellow,2050.0,100.0,-3.57,Yes,Yes,3.3,26.1,No,No,No,No
+Xcel Energy,XEL,0.89,6.0,Green,Orange,Yellow,Orange,Green,Green,,,,No,No,3.7,26.5,No,No,No,No
+Tupperware Brands,TUP,1.7,4.0,,,,,,,,,,No,No,,,,,,
+Airbus,AIR,4.14,5.0,Green,Orange,Yellow,Green,Orange,Green,2050.0,100.0,-3.57,Yes,Yes,2.0,33.0,No,No,Yes,Yes
+Estee Lauder,EL,3.59,5.0,Green,Yellow,Yellow,Green,Yellow,Green,2025.0,9.32,-1.05,Yes,Yes,2.4,,No,No,No,No
+Freddie Mac,FMCC,0.02,4.0,,,,,,,,,,No,No,,17.0,,,,
+Ralph Lauren,RL,4.48,9.0,,,,,,,,,,No,No,,,,,,
+Mattel,MAT,3.24,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,,,No,No,No,No
+MARIN,HZO,1.82,3.0,,,,,,,,,,No,No,,17.2,,,,
+NCL,NCL,-0.96,2.0,,,,,,,,,,No,No,,,,,,
+Cell C,USM,1.19,7.0,,,,,,,,,,No,No,,34.2,,,,
+E.W. Scripps,SSP,-0.13,4.0,,,,,,,,,,No,No,,,,,,
+Lifetime,LCUT,1.79,6.0,,,,,,,,,,No,No,,,,,,
+WWE,TKO,1.42,2.0,,,,,,,,,,No,No,,52.1,,,,
+solo,SWIN,20.68,5.0,,,,,,,,,,No,No,,,,,,
+iag,IAG,0.61,5.0,Green,Orange,Orange,Green,Green,Green,2050.0,2.19,1.05,Yes,Yes,1.4,20.4,No,No,No,No
+Illinois,ITW,7.96,8.0,Green,Green,Green,Green,Green,Green,2030.0,2.8,0.83,Yes,Yes,2.0,23.1,No,No,No,No
+gm,GM,1.29,7.0,Green,Yellow,Yellow,Green,Yellow,Green,2035.0,84.81,-2.17,Yes,Yes,2.2,,No,No,No,No
+rush enterprises,RUSHA,3.65,5.0,,,,,,,,,,No,No,,20.2,,,,
+ScanSource,SCSC,4.36,8.0,,,,,,,,,,No,No,,8.8,,,,
+Udemy,UDMY,2.07,5.0,,,,,,,,,,No,No,,14.4,,,,
+Clever,CLVR,-9.66,3.0,,,,,,,,,,No,No,,,,,,
+wework,WEWKQ,-1.7,4.0,,,,,,,,,,No,No,,,,,,
+Intel,INTC,1.85,6.0,Green,Yellow,Yellow,Green,Green,Green,2040.0,5.61,0.72,Yes,Yes,2.7,17.5,No,No,No,No
+WINGSTOP,WING,9.12,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.6,28.4,No,No,Yes,Yes
+Fannie Mae,FNMA,0.04,6.0,,,,,,,,,,No,No,,12.5,,,,
+Enbridge,ENB,0.86,6.0,Green,Orange,Green,Orange,Green,Green,2050.0,23.15,0.06,Yes,Yes,1.7,,No,No,No,No
+Skechers,SKX,4.57,8.0,,,,,,,,,,No,No,,23.2,,,,
+Global Group,BERY,1.61,7.0,,,,,,,,,,No,No,,,,,,
+Inspirato,ISPO,-1.73,2.0,,,,,,,,,,No,No,,,,,,
+Luna Innovations,LUNA,2.01,2.0,,,,,,,,,,No,No,,22.3,,,,
+dti,DTI,3.98,7.0,,,,,,,,,,No,No,,,,,,
+Aware,AWRE,0.56,5.0,,,,,,,,,,No,No,,,,,,
+Veeva,VEEV,17.74,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.6,14.9,No,No,No,No
+Mind Gym,MIND,-3.02,4.0,Green,Green,Green,Green,Green,Green,2030.0,1.28,1.0,Yes,Yes,,,No,No,No,No
+ON Semiconductor,ON,5.72,5.0,Green,Green,Green,Green,Green,Green,2040.0,99.3,-5.51,Yes,Yes,2.9,,No,No,No,No
+Venture,LIVE,1.51,2.0,Green,Yellow,Yellow,Green,Green,Green,2030.0,10.72,0.08,Yes,Yes,2.2,,No,No,No,Yes
+Teradyne,TER,15.06,6.0,Green,Green,Green,Green,Green,Green,2025.0,2.33,0.63,Yes,Yes,2.1,17.2,No,No,No,No
+bti,BTI,0.56,4.0,,,,,,,,,,No,No,,,,,,
+Penna,PNTG,2.25,6.0,,,,,,,,,,No,No,,22.9,,,,
+Forest Labs,BODI,-2.69,4.0,,,,,,,,,,No,No,,,,,,
+PE International,PPIH,2.07,5.0,,,,,,,,,,No,No,,,,,,
+12,ALB,2.54,5.0,Green,Green,Green,Green,Green,Yellow,2030.0,9.39,0.38,Yes,Yes,,,No,No,No,No
+rafael,RFL,4.64,2.0,,,,,,,,,,No,No,,,,,,
+AMN Healthcare,AMN,3.1,7.0,,,,,,,,,,No,No,,17.2,,,,
+LT Automation,HOLI,3.48,5.0,,,,,,,,,,No,No,,15.1,,,,
+STV,STVN,6.48,4.0,,,,,,,,,,No,No,,,,,,
+Allot Communications,ALLT,-2.53,3.0,,,,,,,,,,No,No,,,,,,
+Paradigm,PAR,1.88,3.0,Green,Green,Green,Green,Green,Green,,,,No,No,,,No,No,No,No
+App-DNA,APDN,-43.79,1.0,,,,,,,,,,No,No,,,,,,
+SoundHound,SOUN,0.84,3.0,,,,,,,,,,No,No,,25.5,,,,
+Brooks,AZTA,6.18,4.0,,,,,,,,,,No,No,,,,,,
+Decade,DEC,1.0,4.0,,,,,,,,,,No,No,,,,,,
+PCH,PCH,1.85,6.0,,,,,,,,,,No,No,,18.2,,,,
+ADAMS,AE,8.14,6.0,Green,Yellow,Green,Green,Yellow,Green,2030.0,4.11,0.99,Yes,Yes,1.6,,No,No,No,No
+Bowflex,BFXXQ,0.38,5.0,,,,,,,,,,No,No,,,,,,
+Choice Hotels,CHH,3.42,7.0,,,,,,,,,,No,No,,27.0,,,,
+Spirit Aerosystems,SPR,1.44,4.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,1.8,30.7,No,No,No,No
+SEB,SEB,3.21,5.0,Green,Green,Green,Green,Green,Green,2070.0,100.0,-2.04,Yes,Yes,2.1,49.4,No,No,No,No
+RPI,RPID,-4.19,4.0,,,,,,,,,,No,No,,,,,,
+Shell,SHEL,2.42,8.0,Orange,Orange,Yellow,Orange,Yellow,Yellow,2050.0,100.0,-3.57,Yes,Yes,2.1,33.7,No,No,Yes,Yes
+LifeWay,LWAY,14.21,9.0,,,,,,,,,,No,No,,,,,,
+Liquidia Technologies,LQDA,1.99,3.0,,,,,,,,,,No,No,,33.8,,,,
+Rediff,REDFY,-29.46,2.0,,,,,,,,,,No,No,,,,,,
+EDI,EIX,0.68,6.0,Green,Orange,Yellow,Orange,Green,Yellow,2045.0,100.0,-4.35,Yes,Yes,1.3,24.8,No,No,No,No
+Cameron,JCTCF,6.86,6.0,,,,,,,,,,No,No,,,,,,
+TMX Group,X,2.16,5.0,,,,,,,,,,No,No,,,,,,
+Spectra,MDAI,-7.81,3.0,,,,,,,,,,No,No,,,,,,
+Caleres,CAL,2.91,7.0,,,,,,,,,,No,No,,,,,,
+HanesBrands Inc.,HBI,1.65,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,,16.2,No,No,No,No
+ATRIUM,AI,9.32,3.0,Green,Yellow,Yellow,Green,Green,Green,2035.0,59.99,-1.86,Yes,Yes,,,No,No,No,No
+SPRUCE,SPRU,-0.15,2.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,1.8,,No,No,No,No
+Agora,API,1.37,4.0,,,,,,,,,,No,No,,11.3,,,,
+Wesco,WCC,2.97,6.0,,,,,,,,,,No,No,,17.3,,,,
+Agilysys,AGYS,12.89,4.0,,,,,,,,,,No,No,,13.2,,,,
+bravura solutions,BVS,0.0,5.0,,,,,,,,,,No,No,,17.7,,,,
+Tesco,TSCO,5.7,7.0,Green,Green,Green,Green,Green,Green,2040.0,2.64,0.91,Yes,Yes,3.2,21.2,No,No,No,No
+CN,CNP,0.82,6.0,Green,Orange,Orange,Green,Green,Green,2035.0,39.24,-2.37,Yes,Yes,1.8,26.0,No,No,No,No
+CareView,CRVW,-76.58,6.0,,,,,,,,,,No,No,,,,,,
+Hauppauge,HAUP,-0.6,1.0,,,,,,,,,,No,No,,,,,,
+TNT,TNT,-3.84,1.0,,,,,,,,,,No,No,,,,,,
+Essent,WTRG,0.95,5.0,Green,Yellow,Green,Yellow,Green,Green,2035.0,21.72,-0.66,Yes,Yes,3.6,19.8,No,No,No,No
+ASR,ASR,7.36,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.8,,No,No,No,No
+Hormel,HRL,4.09,5.0,Green,Yellow,Yellow,Green,Green,Green,2030.0,100.0,-4.87,Yes,Yes,3.0,27.6,No,No,No,No
+Asian paints,ASPN,4.83,2.0,,,,,,,,,,No,No,,27.8,,,,
+McCormick,MKC,2.66,7.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.7,27.1,No,No,No,No
+PT,PT,-37.05,4.0,Orange,Orange,Green,Orange,Green,Green,,,,No,No,,,No,No,No,No
+Sealed Air,SEE,1.74,6.0,Green,Green,Green,Green,Green,Green,2025.0,100.0,-22.52,Yes,Yes,1.4,14.3,No,No,No,No
+United Therapeutics,UTHR,8.96,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,22.7,No,No,No,No
+Vinci,VINP,3.52,5.0,,,,,,,,,,No,No,,,,,,
+hopTo,HPTO,-15.86,5.0,,,,,,,,,,No,No,,,,,,
+BL Systems,BLDP,4.03,2.0,,,,,,,,,,No,No,,20.0,,,,
+FMC Technologies,FTI,1.52,8.0,,,,,,,,,,No,No,,25.6,,,,
+Sprouts,SFM,4.58,6.0,,,,,,,,,,No,No,,17.8,,,,
+Starbucks,SBUX,2.81,8.0,Green,Orange,Yellow,Green,Orange,Green,2030.0,97.89,-2.02,Yes,Yes,2.1,23.5,No,No,No,Yes
+Kaiser Aluminum,KALU,2.39,7.0,,,,,,,,,,No,No,,28.3,,,,
+CSX,CSX,2.44,5.0,Green,Yellow,Yellow,Yellow,Green,Green,2029.0,50.22,-1.06,Yes,Yes,2.9,,No,No,No,No
+Integra LifeSciences,IART,1.73,5.0,,,,,,,,,,No,No,,23.5,,,,
+A10,ATEN,4.86,6.0,,,,,,,,,,No,No,,20.5,,,,
+Lithia Motors,LAD,2.37,2.0,,,,,,,,,,No,No,,,,,,
+United Technologies,RTX,1.86,6.0,Yellow,Orange,Green,Orange,Green,Green,2030.0,0.59,1.01,Yes,Yes,,14.0,No,No,No,No
+Frontier Communications,FYBR,533.42,5.0,,,,,,,,,,No,No,,28.2,,,,
+Embraer,ERJ,1.44,7.0,,,,,,,,,,No,No,,,,,,
+Takeda Pharmaceutical,TAK,1.07,6.0,Green,Orange,Orange,Green,Green,Yellow,2040.0,100.0,-5.44,Yes,Yes,1.3,,No,No,No,No
+Banco Santander,SAN,0.29,6.0,Green,Orange,Yellow,Green,Orange,Yellow,2050.0,100.0,-3.57,Yes,Yes,1.5,,No,No,No,No
+Cargill,CARG,6.99,6.0,,,,,,,,,,No,No,,19.3,,,,
+Parker Hannifin,PH,4.17,7.0,Green,Green,Green,Green,Green,Green,2040.0,100.0,-1.6,Yes,Yes,3.1,,No,No,No,No
+Cemex,CX,1.43,8.0,,,,,,,,,,No,No,,,,,,
+Energy Recovery,ERII,18.64,5.0,,,,,,,,,,No,No,,24.5,,,,
+Accolade,ACCD,-0.48,4.0,,,,,,,,,,No,No,,20.6,,,,
+Church & Dwight,CHD,5.66,9.0,Green,Green,Green,Green,Green,Green,2031.0,100.0,-2.28,Yes,Yes,1.8,21.6,No,No,No,No
+Stratasys,SSYS,-0.47,3.0,,,,,,,,,,No,No,,22.0,,,,
+Manitowoc,MTW,2.14,9.0,,,,,,,,,,No,No,,23.9,,,,
+Acorda Therapeutics,ACORQ,-23.99,4.0,,,,,,,,,,No,No,,,,,,
+Celanese,CE,1.98,4.0,Green,Green,Green,Green,Green,Green,2030.0,19.03,0.22,Yes,Yes,,,No,No,Yes,Yes
+Interlink,LINK,12.81,4.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,2.0,,No,No,No,No
+Actuant,EPAC,4.8,8.0,,,,,,,,,,No,No,,22.1,,,,
+Drew Industries,LCII,3.28,6.0,,,,,,,,,,No,No,,15.7,,,,
+Acushnet,GOLF,3.75,7.0,,,,,,,,,,No,No,,10.7,,,,
+Mohawk Industries,MHK,2.47,5.0,,,,,,,,,,No,No,,,,,,
+Mondelez,MDLZ,2.41,9.0,Orange,Yellow,Yellow,Green,Green,Green,2050.0,53.97,-1.28,Yes,Yes,2.2,,No,No,No,No
+Home Depot,HD,7.28,5.0,Green,Yellow,Green,Green,Yellow,Yellow,2050.0,7.65,0.8,Yes,Yes,1.7,,No,No,No,No
+IAC,IAC,1.53,6.0,,,,,,,,,,No,No,,24.8,,,,
+Apache,APA,1.43,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,,,No,No,No,No
+ADM,ADM,3.3,6.0,Yellow,Green,Green,Green,Green,Yellow,2035.0,100.0,-0.32,Yes,Yes,3.6,,No,No,Yes,Yes
+Oshkosh Corporation,OSK,2.95,4.0,,,,,,,,,,No,No,,22.1,,,,
+Analog Devices,ADI,5.43,6.0,Green,Green,Green,Green,Green,Green,2030.0,5.59,0.65,Yes,Yes,2.9,,No,No,No,No
+RE/MAX,RMAX,0.63,4.0,,,,,,,,,,No,No,,9.7,,,,
+3D Systems,DDD,0.22,2.0,,,,,,,,,,No,No,,19.5,,,,
+Hasbro,HAS,1.52,4.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.5,,No,Yes,No,No
+Regeneron,REGN,10.88,4.0,Green,Green,Green,Green,Green,Yellow,2025.0,4.54,0.66,Yes,Yes,1.5,,No,No,No,No
+Huntsman,HUN,2.0,3.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,,No,No,No,No
+West Pharmaceutical,WST,20.51,6.0,Green,Green,Green,Green,Green,Green,2030.0,10.61,0.49,Yes,Yes,2.5,18.3,No,No,No,No
+Avery Dennison,AVY,3.9,7.0,Green,Green,Green,Green,Green,Green,2030.0,34.88,0.29,Yes,Yes,2.0,14.7,No,No,No,No
+Winnebago Industries,WGO,3.85,6.0,,,,,,,,,,No,No,,29.1,,,,
+InBev,BUD,1.25,7.0,Green,Green,Green,Green,Green,Green,2030.0,9.59,0.5,Yes,Yes,2.9,,No,No,No,No
+Sirius Satellite Radio,SIRI,1.4,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.8,17.7,No,No,No,No
+PLDT,PHI,0.71,6.0,Yellow,Orange,Green,Orange,Green,Green,,,,No,No,,,No,No,No,No
+Chesapeake Energy,CHK,3.45,7.0,Green,Yellow,Green,Yellow,Green,Green,2035.0,1.96,0.89,Yes,Yes,,,No,No,No,No
+Align Technology,ALGN,7.08,9.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.8,,No,No,No,No
+Air Products,APD,3.07,5.0,Green,Green,Green,Green,Green,Green,2050.0,73.78,-1.73,Yes,Yes,,14.9,No,No,No,No
+Dow Chemical,DOW,2.14,5.0,Yellow,Yellow,Yellow,Yellow,Green,Green,2050.0,100.0,-3.2,Yes,Yes,,21.1,No,No,No,No
+4D,FDMT,23.61,4.0,,,,,,,,,,No,No,,27.4,,,,
+Orion,ORN,2.49,3.0,,,,,,,,,,No,No,,,,,,
+Vulcan Materials,VMC,4.74,9.0,Yellow,Green,Green,Green,Green,Green,,,,No,No,1.5,29.0,No,No,No,No
+Monster,MNST,26.41,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.4,33.0,No,No,No,Yes
+AutoZone,AZO,2.6,7.0,Green,Green,Green,Green,Green,Green,2050.0,2.17,1.04,Yes,Yes,,,No,No,No,No
+AMC,AMC,-0.72,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,18.6,No,No,No,No
+Energizer Holdings,ENR,1.32,7.0,Green,Orange,Green,Orange,Green,Green,2030.0,96.5,0.03,Yes,Yes,,,No,No,No,No
+Huntington Ingalls Industries,HII,2.75,9.0,Green,Yellow,Green,Green,Yellow,Green,,,,No,No,1.6,,No,No,No,No
+Altria Group,MO,3.87,6.0,Green,Orange,Orange,Green,Green,Orange,2030.0,100.0,-0.28,Yes,Yes,1.4,31.9,No,No,Yes,Yes
+PPG Industries,PPG,4.06,7.0,Green,Green,Green,Green,Green,Green,2030.0,30.4,-0.86,Yes,Yes,3.2,,No,No,No,No
+AES,AES,0.52,5.0,Orange,Orange,Green,Orange,Green,Green,2050.0,100.0,-3.57,Yes,Yes,,,No,No,No,No
+BYD,BYD,2.11,8.0,Green,Yellow,Green,Yellow,Yellow,Yellow,,,,No,No,2.0,33.1,No,No,No,No
+TrueCar,TRUE,0.46,5.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.45,Yes,Yes,1.5,21.1,No,No,No,No
+MGM,MGM,0.87,7.0,Green,Yellow,Green,Green,Yellow,Green,2034.0,58.36,-1.75,Yes,Yes,2.7,23.9,No,Yes,Yes,Yes
+Neogen,NEOG,1.63,4.0,,,,,,,,,,No,No,,17.6,,,,
+Trane,TT,5.64,8.0,,,,,,,,,,No,No,,,,,,
+Scion,FINR,105.51,1.0,,,,,,,,,,No,No,,,,,,
+Uber,UBER,3.47,7.0,Green,Orange,Orange,Green,Orange,Yellow,2040.0,100.0,-5.5,Yes,Yes,2.0,25.3,No,No,No,No
+Costco,COST,8.83,7.0,Green,Yellow,Yellow,Green,Yellow,Green,,,,No,No,3.7,31.7,No,No,Yes,Yes
+EnerSys,ENS,3.88,8.0,Green,Orange,Green,Orange,Green,Green,2030.0,95.6,-8.12,Yes,Yes,2.5,23.8,No,No,Yes,No
+RBC,RBC,3.27,8.0,Green,Orange,Yellow,Green,Orange,Orange,2025.0,100.0,-33.32,Yes,Yes,1.7,30.1,No,No,No,No
+AbbVie,ABBV,1.76,5.0,Green,Orange,Orange,Green,Green,Yellow,2030.0,5.26,0.71,Yes,Yes,1.5,26.9,No,No,No,No
+Flowserve,FLS,3.63,7.0,,,,,,,,,,No,No,,23.7,,,,
+Cheniere Energy,LNG,1.76,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.7,22.5,No,No,No,No
+Generac,GNRC,3.76,7.0,,,,,,,,,,No,No,,23.1,,,,
+Borealis,BRLS,-2.22,4.0,,,,,,,,,,No,No,,,,,,
+Tencent,TME,6.43,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.1,,No,No,No,No
+KVH Industries,KVHI,3.46,4.0,,,,,,,,,,No,No,,20.0,,,,
+BHP Billiton,BHP,3.25,4.0,Yellow,Orange,Green,Orange,Yellow,Green,2050.0,98.36,-3.39,Yes,Yes,,29.2,No,No,No,No
+Westlake Chemical,WLK,2.73,5.0,Green,Yellow,Green,Green,Yellow,Green,,,,No,No,,29.5,No,No,No,No
+Reliance Industries,RELI,-3.14,4.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.8,,No,No,No,No
+Alcoa,AA,1.08,2.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.6,,No,No,No,No
+Qiagen,QGEN,3.97,7.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-3.57,Yes,Yes,1.4,14.1,No,No,No,No
+Depomed,ASRT,-4.82,4.0,,,,,,,,,,No,No,,34.1,,,,
+Insulet Corp,PODD,5.25,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,,23.2,No,No,No,No
+Zimmer Holdings,ZBH,3.04,8.0,Green,Green,Green,Green,Green,Green,2030.0,31.98,0.08,Yes,Yes,2.5,26.1,No,No,No,No
+Tenet Healthcare,THC,1.76,7.0,,,,,,,,,,No,No,,34.4,,,,
+Kinder Morgan,KMI,0.84,6.0,Green,Green,Green,Green,Green,Yellow,2050.0,31.97,-0.32,Yes,Yes,3.4,18.5,No,No,No,No
+Rent the Runway,RENT,-4.85,2.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.2,,No,No,No,No
+Bio-Rad,BIO,2.66,5.0,Green,Green,Green,Green,Green,Green,2030.0,3.86,0.74,Yes,Yes,2.0,17.2,No,No,No,No
+YRC,YELLQ,0.18,3.0,,,,,,,,,,No,No,,,,,,
+ABM Industries,ABM,2.97,7.0,,,,,,,,,,No,No,,14.3,,,,
+Linc,LINC,3.11,4.0,,,,,,,,,,No,No,,34.3,,,,
+Air Serv,ATSG,1.07,5.0,,,,,,,,,,No,No,,23.6,,,,
+Tennant Company,TNC,4.77,7.0,,,,,,,,,,No,No,,22.6,,,,
+Amtech,ASYS,1.27,2.0,,,,,,,,,,No,No,,,,,,
+MakeMyTrip,MMYT,7.61,7.0,,,,,,,,,,No,No,,,,,,
+Fortis,FTS,0.68,6.0,Green,Green,Green,Green,Green,Green,2050.0,57.7,-1.58,Yes,Yes,2.0,28.4,No,No,No,No
+BG Group,BGI,0.45,4.0,,,,,,,,,,No,No,,,,,,
+First Solar,FSLR,4.69,5.0,Green,Yellow,Green,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,2.2,17.5,No,No,No,No
+Acacia Research,ACTG,7.87,5.0,,,,,,,,,,No,No,,19.7,,,,
+Newegg,NEGG,2.9,3.0,,,,,,,,,,No,No,,,,,,
+InterDigital,IDCC,3.54,7.0,,,,,,,,,,No,No,,21.7,,,,
+PPL Corp,PPL,0.95,6.0,Green,Green,Green,Green,Green,Green,2050.0,92.83,-3.23,Yes,Yes,3.5,,No,No,No,No
+Academy Sports + Outdoors,ASO,3.46,7.0,,,,,,,,,,No,No,,15.7,,,,
+Alkermes,ALKS,3.88,8.0,,,,,,,,,,No,No,,24.3,,,,
+Perini,TPC,1.56,5.0,,,,,,,,,,No,No,,38.0,,,,
+Gartner,IT,4.97,7.0,Green,Green,Green,Green,Green,Green,2029.0,1.26,0.96,Yes,Yes,2.0,,No,No,No,No
+Warner Music Group,WMG,1.91,5.0,,,,,,,,,,No,No,,16.1,,,,
+LyondellBasell,LYB,2.8,6.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-2.21,Yes,Yes,,,No,No,No,No
+ICON plc,ICLR,2.95,8.0,,,,,,,,,,No,No,,17.1,,,,
+SRI,SRI,2.99,5.0,,,,,,,,,,No,No,,,,,,
+MDU,MDU,1.77,7.0,,,,,,,,,,No,No,,45.4,,,,
+Accuray,ARAY,-0.12,4.0,,,,,,,,,,No,No,,,,,,
+FTD,FTDR,4.49,9.0,,,,,,,,,,No,No,,13.1,,,,
+Shoe Carnival,SCVL,4.03,6.0,,,,,,,,,,No,No,,19.2,,,,
+Gogo,GOGO,0.19,6.0,,,,,,,,,,No,No,,27.7,,,,
+DWA,DJT,-11.34,2.0,,,,,,,,,,No,No,,,,,,
+Synaptics,SYNA,2.92,5.0,,,,,,,,,,No,No,,,,,,
+Forrester Research,FORR,1.91,6.0,,,,,,,,,,No,No,,,,,,
+ITT,ITT,5.76,7.0,,,,,,,,,,No,No,,23.7,,,,
+FEMA,VERU,-1.47,4.0,,,,,,,,,,No,No,,,,,,
+Amneal Pharmaceuticals,AMRX,1.17,4.0,,,,,,,,,,No,No,,,,,,
+NewMarket,NEU,3.79,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.7,13.5,No,No,No,No
+Turtle Beach,HEAR,3.1,5.0,,,,,,,,,,No,No,,16.4,,,,
+Roadrunner Transportation,RRTS,-5.48,2.0,,,,,,,,,,No,No,,,,,,
+Ooma,OOMA,1.76,2.0,,,,,,,,,,No,No,,32.1,,,,
+Boston Beer,SAM,8.3,8.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.4,,No,No,No,No
+Decipher,DCPH,5.69,4.0,,,,,,,,,,No,No,,21.2,,,,
+Acuity Brands,AYI,6.76,8.0,,,,,,,,,,No,No,,19.1,,,,
+Steelcase,SCS,3.01,7.0,Green,Green,Green,Green,Green,Green,2050.0,100.0,-0.53,Yes,Yes,1.6,,No,No,No,Yes
+Adaptimmune,ADAP,-4.93,2.0,,,,,,,,,,No,No,,,,,,
+Colgate-Palmolive,CL,6.98,8.0,Orange,Yellow,Green,Green,Yellow,Green,2050.0,100.0,-3.57,Yes,Yes,1.4,,No,No,No,No
+Silicon Laboratories,SLAB,15.02,3.0,,,,,,,,,,No,No,,17.6,,,,
+Young & Rubicam,SY,1.68,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.4,,No,No,No,No
+Addus HomeCare,ADUS,4.85,7.0,,,,,,,,,,No,No,,18.5,,,,
+Greif,GEF,2.24,6.0,,,,,,,,,,No,No,,18.3,,,,
+RVM,RVMD,17.0,2.0,,,,,,,,,,No,No,,,,,,
+GEO,GEO,1.51,6.0,Green,Orange,Orange,Green,Yellow,Yellow,2050.0,100.0,-3.38,Yes,Yes,1.6,15.5,No,No,Yes,Yes
+Kirkland,KIRK,0.53,3.0,,,,,,,,,,No,No,,,,,,
+Roper Industries,ROP,4.22,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.5,20.3,No,No,No,No
+KAR Auction,KAR,0.96,6.0,,,,,,,,,,No,No,,,,,,
+ASI Corp.,APWC,2.06,4.0,,,,,,,,,,No,No,,,,,,
+Microchip Technology,MCHP,5.03,7.0,Green,Yellow,Green,Green,Yellow,Green,2040.0,100.0,-5.56,Yes,Yes,2.5,29.8,No,No,No,No
+Coty,COTY,0.86,7.0,,,,,,,,,,No,No,,,,,,
+Bloom Energy,BE,-0.5,2.0,Green,Green,Green,Green,Green,Green,2030.0,100.0,-1.45,Yes,Yes,1.7,,No,No,No,No
+VistaPrint,CMPR,2.87,8.0,,,,,,,,,,No,No,,7.8,,,,
+Smart & Final,SGH,1.34,5.0,Green,Green,Green,Green,Green,Green,2040.0,1.49,1.0,Yes,Yes,,,No,No,No,No
+CareCloud,CCLD,-1.57,4.0,,,,,,,,,,No,No,,,,,,
+Liberty Global,LBTYA,0.81,4.0,Green,Orange,Orange,Green,Green,Yellow,2050.0,5.44,0.89,Yes,Yes,2.0,,No,No,No,No
+Lyft,LYFT,-1.5,5.0,,,,,,,,,,No,No,,21.9,,,,
+Levi Strauss,LEVI,2.97,5.0,,,,,,,,,,No,No,,13.6,,,,
+Creative,CREX,0.06,6.0,,,,,,,,,,No,No,,,,,,
+CLP,CLPS,2.19,,,,,,,,,,,No,No,,,,,,
+ARCADIS,ARDS,-40.16,3.0,,,,,,,,,,No,No,,,,,,
+Snap-on,SNA,6.42,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,1.4,27.8,No,No,No,No
+iHeartMedia,IHRT,-0.36,5.0,,,,,,,,,,No,No,,16.6,,,,
+Legacy,LEGH,6.16,4.0,,,,,,,,,,No,No,,22.7,,,,
+OSI Systems,OSIS,3.35,6.0,,,,,,,,,,No,No,,15.5,,,,
+MKS Instruments,MKSI,0.87,5.0,,,,,,,,,,No,No,,11.6,,,,
+Eni S.P.A.,ENI,1.7,7.0,Yellow,Orange,Yellow,Orange,Green,Yellow,2050.0,100.0,-3.57,Yes,Yes,1.9,28.7,No,No,No,No
+BioPharm,ABUS,-4.46,2.0,,,,,,,,,,No,No,,25.5,,,,
+El Pollo Loco,LOCO,1.51,7.0,,,,,,,,,,No,No,,29.7,,,,
+Inovio,INO,-11.59,3.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.0,,No,No,No,No
+Incyte,INCY,5.8,5.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.1,,No,No,No,No
+Cosan,CSAN,0.98,6.0,,,,,,,,,,No,No,,,,,,
+Avista,AVA,0.88,6.0,Green,Green,Green,Green,Green,Green,2025.0,2.04,0.97,Yes,Yes,3.0,,No,No,No,No
+Ametek,AME,5.73,6.0,Green,Green,Green,Green,Green,Green,,,,No,No,2.9,,No,No,No,No
+Kronos Worldwide,KRO,1.91,3.0,Green,Orange,Green,Green,Orange,Yellow,2030.0,8.13,0.75,Yes,Yes,3.6,,No,No,Yes,Yes
+Evolent Health,EVH,1.49,3.0,,,,,,,,,,No,No,,21.5,,,,
+Spirit Airlines,SAVE,0.45,2.0,,,,,,,,,,No,No,,31.9,,,,
+Heartland,HTLD,2.71,6.0,,,,,,,,,,No,No,,20.4,,,,
+DCP,DCP,3.76,4.0,,,,,,,,,,No,No,,,,,,
+Saga Communications,SGA,3.08,5.0,,,,,,,,,,No,No,,,,,,
+CAE,CAE,1.8,7.0,Green,Green,Green,Green,Green,Green,2027.0,0.84,0.9,Yes,Yes,2.7,22.7,No,No,No,No
+RMB,RMBS,17.94,7.0,,,,,,,,,,No,No,,18.5,,,,
+Aei,AEI,-3.35,5.0,,,,,,,,,,No,No,,,,,,
+Biodex,BDRX,-21.33,2.0,,,,,,,,,,No,No,,,,,,
+AeroVironment,AVAV,18.2,6.0,,,,,,,,,,No,No,,31.7,,,,
+AerSale,ASLE,3.55,1.0,,,,,,,,,,No,No,,27.7,,,,
+NRT,NRT,155.59,7.0,,,,,,,,,,No,No,,,,,,
+Republic Services,RSG,2.79,8.0,Green,Green,Green,Green,Green,Green,2030.0,77.05,-3.23,Yes,Yes,3.6,19.2,No,No,No,No
+Teekay,TNK,5.7,8.0,,,,,,,,,,No,No,,26.1,,,,
+GoHealth,GOCO,0.25,5.0,,,,,,,,,,No,No,,25.7,,,,
+Teladoc,TDOC,-3.57,6.0,,,,,,,,,,No,No,,23.8,,,,
+Centene,CNC,2.8,8.0,Green,Green,Green,Green,Green,Yellow,,,,No,No,1.5,17.1,No,No,No,No
+Health Catalyst,HCAT,-1.2,2.0,,,,,,,,,,No,No,,26.2,,,,
+Royal Caribbean,RCL,1.21,7.0,Green,Yellow,Yellow,Green,Green,Green,,,,No,No,2.8,25.7,No,Yes,Yes,Yes
+Nektar Therapeutics,NKTR,-12.59,3.0,,,,,,,,,,No,No,,,,,,
+AGCO,AGCO,2.98,7.0,,,,,,,,,,No,No,,17.6,,,,
+RPM,RPM,4.57,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.4,33.5,No,No,No,No
+Sonim,SONM,-3.89,3.0,,,,,,,,,,No,No,,,,,,
+Emcore,EMKR,-7.52,5.0,,,,,,,,,,No,No,,,,,,
+Lattice Semiconductor,LSCC,46.23,7.0,Green,Green,Green,Green,Green,Green,,,,No,No,3.4,18.7,No,No,No,No
+International Flavors & Fragrances Inc,IFF,0.94,4.0,Green,Yellow,Yellow,Green,Green,Yellow,2040.0,63.19,-1.49,Yes,Yes,2.4,24.3,No,No,Yes,Yes
