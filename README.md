@@ -1,2 +1,5 @@
 # financial-machine-learning
-This Repository contains my portfolios of financial machine learning models built using open source datasets
+A  portfolio of finance-focused machine learning projects.
+
+1.predictive-financial-risk-classification
+2.revenue-analysis-using-regression
