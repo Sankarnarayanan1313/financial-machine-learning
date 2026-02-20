@@ -1,4 +1,4 @@
-# Revenue Analysis using multiple regression model
+# Revenue Analysis using linear regression model
 
 #### Project Overview
 **Goal:** Use transaction-level data to define Revenue as the target and identify relevant independent variables.
